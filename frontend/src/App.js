@@ -21,7 +21,7 @@ function App() {
 <div className='img'>
  <img src={img} style={{position:"absolute",right:"65px",height:"300px",top:"47px"}}></img>
  
- <button style={{position:"absolute",right:"600px",height:"64px",top:"283px",width:"300px"}} onClick={handleRedirect}>Read Latest News</button>
+ <button style={{position:"absolute",right:"600px",height:"64px",top:"223px",width:"300px"}} onClick={handleRedirect}>Read Latest News</button>
 
 
  </div>

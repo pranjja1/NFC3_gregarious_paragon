@@ -6,13 +6,18 @@ import reportWebVitals from './reportWebVitals';
 import { createBrowserRouter, createRoutesFromElements, Route,RouterProvider } from 'react-router-dom';
 import Report from './Report.js';
 import News from './News.js'
+import CsvTable from './CSVTable.js';
+import Lok from './Lok.js'
+import Raj from './Raj.js'
 
 const router = createBrowserRouter(
   createRoutesFromElements(
     <>
       <Route path="/" element={<App />} />
       <Route path="/report" element={<Report />} />
-      <Route path="/news" element={<News />} />
+      <Route path="/news" element={<News/>} />
+      <Route path='/lok' element= {<Lok />} />
+      <Route path='/lok' element= {<Raj />} />
     </>
   )
 );

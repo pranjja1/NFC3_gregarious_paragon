@@ -1,0 +1,89 @@
+/* src/Report.css */
+
+.report {
+    position: absolute;
+    align-items: center;
+    top: 70px;
+    left: 30px;
+    margin: 13px;
+    text-align: center;
+    width: 80%;
+    max-width: 1200px;
+    background-color: #f9f9f9; /* Background color for the report */
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    animation: fadeIn 1s ease-out; /* Animation for fade-in effect */
+  }
+  
+  /* Animation for fade-in effect */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  .report h2 {
+    margin-bottom: 20px;
+    font-size: 2rem;
+    color: #333;
+    animation: slideIn 0.5s ease-out; /* Animation for slide-in effect */
+  }
+  
+  /* Animation for slide-in effect */
+  @keyframes slideIn {
+    from {
+      transform: translateY(-20px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  .table {
+    margin: 20px auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    width: 100%;
+    background-color: #fff;
+    animation: slideUp 0.5s ease-out; /* Animation for slide-up effect */
+  }
+  
+  /* Animation for slide-up effect */
+  @keyframes slideUp {
+    from {
+      transform: translateY(20px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  .table thead {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .table th,
+  .table td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .table tbody tr:hover {
+    background-color: #e9ecef;
+  }
+  
