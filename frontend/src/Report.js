@@ -2,10 +2,13 @@ import Table from 'react-bootstrap/Table';
 
 function Report() {
   return (
-    <div>
-      <Table responsive="sm">
-        <thead>
-          <tr>
+
+    
+    <div className='report' style={{position:"absolute",alignItems:"center",top:"70px",left:"30px",margin:"13px",textAlign:"center"}}>
+      <h2>Performance Report</h2>
+      <Table responsive="sm" >
+        <thead >
+          <tr style={{backgroundColor:"red"}}>
             <th>Candidate Info</th>
             <th>Name</th>
             <th>Age</th>
@@ -47,38 +50,17 @@ function Report() {
             <td>Table cell</td>
             <td>Table cell</td>
             <td>Table cell</td>
-            <td>Table cell</td>
-          </tr>
-          <tr>
-            <td>2</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-          </tr>
-          <tr>
-            <td>3</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
+           
           </tr>
         </tbody>
       </Table>
       <Table responsive="lg">
         <thead>
           <tr>
-            <th>#</th>
-            <th>Table heading</th>
-            <th>Table heading</th>
-            <th>Table heading</th>
-            <th>Table heading</th>
-            <th>Table heading</th>
-            <th>Table heading</th>
+            <th>Election Info</th>
+            <th>Vote share</th>
+            <th>Incumbent</th>
+          
           </tr>
         </thead>
         <tbody>
@@ -87,70 +69,9 @@ function Report() {
             <td>Table cell</td>
             <td>Table cell</td>
             <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
+            
           </tr>
-          <tr>
-            <td>2</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-          </tr>
-          <tr>
-            <td>3</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-          </tr>
-        </tbody>
-      </Table>
-      <Table responsive="xl">
-        <thead>
-          <tr>
-            <th>#</th>
-            <th>Table heading</th>
-            <th>Table heading</th>
-            <th>Table heading</th>
-            <th>Table heading</th>
-            <th>Table heading</th>
-            <th>Table heading</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>1</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-          </tr>
-          <tr>
-            <td>2</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-          </tr>
-          <tr>
-            <td>3</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-            <td>Table cell</td>
-          </tr>
+          
         </tbody>
       </Table>
     </div>
