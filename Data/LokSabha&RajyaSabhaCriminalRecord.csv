@@ -1,0 +1,764 @@
+id,house,state,constituency_term,name,party,age,gender,assets,liabilities,cases,serious_cases,education,pan,income,profession
+1,Rajya Sabha,Telangana,2022-2028,Dr Bandi Partha Saradhi,TRS,68,M,53002151679,7379869,4,0,Doctorate,Y,1353698280,Business
+2,Rajya Sabha,Andhra Pradesh,2020-2026,Alla Ayodhya Rami Reddy,YSRCP,57,M,25777579180,1547552911,10,9,Post Graduate,Y,2621104675,Business
+3,Rajya Sabha,Uttar Pradesh,2018-2024,Bachchan Jaya Amitabh,SP,69,F,10016391566,1056484796,0,0,Graduate,Y,1302810,Film Artist
+4,Lok Sabha,Madhya Pradesh,Chhindwara,Nakul Nath,INC,44,M,6601946757,8791712,0,0,Graduate,Y,27681446,Service/Salary
+5,Rajya Sabha,West Bengal,2018-2024,Abhishek Manu Singhvi,INC,59,M,6498099894,981698967,0,0,Doctorate,Y,1309695330,"Senior Advocate, Supreme Court of India"
+6,Rajya Sabha,Uttar Pradesh,2022-2028,Kapil Sibbal,IND,73,M,6086076970,921553355,0,0,Post Graduate,Y,611786700,Senior Advocate
+7,Rajya Sabha,Punjab,2022-2028,Vikramjit Singh Sahney,AAP,60,M,4984598383,2448151,0,0,Graduate,Y,17187030,Business- Whole time Director of Sun International Limited engaged in Trading in Fertilizer and Chemicals
+8,Rajya Sabha,Punjab,2022-2028,Sanjeev Arora,AAP,58,M,4602850917,370554050,0,0,Graduate,Y,13445740,Managing Director
+9,Rajya Sabha,Maharashtra,2022-2028,Prafulbhai Manoharbhai Patel,Nationalist Congress Party (Ajit Pawar),64,M,4161262584,142336428,0,0,Graduate,Y,27004380,Business & Social Service
+10,Rajya Sabha,Andhra Pradesh,2020-2026,Nathwani Parimal,YSRCP,64,M,3968396198,2097795000,0,0,Doctorate,Y,143449000,"Member of Parliament (Rajya Sabha) & Group President, Reliance Industries Ltd."
+11,Rajya Sabha,Haryana,2022-2028,Kartik Sharma,IND,41,M,3906322000,2975000,3,0,Graduate,Y,9980930,Business & Employment
+12,Rajya Sabha,Gujarat,2021-2027,Mokariya Rambhai Harjibhai,BJP,63,M,3893441581,51203885,0,0,Graduate Professional,Y,114300000,Business
+13,Rajya Sabha,Madhya Pradesh,2020-2026,Jyotiraditya M. Scindia,BJP,49,M,3790329144,2774000,0,0,Post Graduate,Y,15748100,"Service, Directorship"
+14,Rajya Sabha,Gujarat,2023-2029,Desai Babubhai Jesangbhai,BJP,65,M,3475980096,302255135,1,1,10th Pass,Y,347967890,Builder
+15,Lok Sabha,Karnataka,Bangalore Rural,D.K. Suresh,INC,52,M,3388920717,519320305,5,0,12th Pass,Y,18781090,Business Man and Social Worker
+16,Lok Sabha,Andhra Pradesh,Narsapuram,Kanumuru Raghu Rama Krishna Raju,YSRCP,57,M,3259405378,1014467354,3,4,Post Graduate,Y,10865020,Business
+17,Lok Sabha,Andhra Pradesh,Guntur,Jayadev Galla,TDP,53,M,3051485242,203452417,0,0,Graduate,Y,401609970,business and agriculture
+18,Rajya Sabha,Andhra Pradesh,2018-2024,C M Ramesh,BJP,52,M,2582037599,392457789,2,0,12th Pass,Y,10176665,Bussiness
+19,Lok Sabha,Uttar Pradesh,Mathura,Hema Malini Dharmendra Deol,BJP,70,F,2508270292,131288062,0,0,Doctorate,Y,11950800,Actor
+20,Lok Sabha,Uttar Pradesh,Bijnor,Malook Nagar,BSP,53,M,2499628021,1016148176,7,0,Graduate,Y,1974160,Business
+21,Rajya Sabha,Andhra Pradesh,2022-2028,Masthan Rao Beeda,YSRCP,64,M,2432000156,692987871,0,0,Graduate,Y,153999640,Aqua & Real estate Business
+22,Rajya Sabha,Kerala,2021-2027,Abdul Vahab,IUML,70,M,2428336097,141544469,0,0,12th Pass,Y,12037910,Business
+23,Rajya Sabha,Bihar,2020-2026,Amarendra Dhari Singh,RJD,60,M,2381777162,108205113,0,0,Graduate,Y,741159118,Social Service & Business
+24,Rajya Sabha,Andhra Pradesh,2018-2024,Vemireddy Prabhakar Reddy,YSRCP,61,M,2302650883,968484206,0,0,Graduate,Y,78819500,Bussiness
+25,Lok Sabha,Andhra Pradesh,Nellore,Adala Prabhakara Reddy,YSRCP,70,M,2211663364,152281255,0,0,12th Pass,Y,90543972,Agriculturist & Buisness
+26,Lok Sabha,Punjab,Bathinda,Harsimrat Kaur Badal,SAD,52,F,2179919870,954852600,0,0,10th Pass,Y,1886101,Union Minister Food & Processing (Govt. of India)
+27,Lok Sabha,Punjab,Firozpur,Sukhbir Singh Badal,SAD,56,M,2179919870,954852600,4,5,Post Graduate,Y,24212177,Politician & Agriculturist
+28,Lok Sabha,Andhra Pradesh,Visakhapatnam,M V V Satyanarayana,YSRCP,52,M,2023905124,160030959,1,0,10th Pass,Y,5448540,managing partner of m/s MVV Builders
+29,Rajya Sabha,Maharashtra,2020-2026,Bhonsle Shrimant Chh. Udayanraje Pratapsinghmaha raj,BJP,53,M,2014220929,18155222,8,6,12th Pass,Y,7755772,nan
+30,Rajya Sabha,Tamil Nadu,2022-2028,Thiru. P. Chidambaram,INC,76,M,1974816656,65081166,4,1,Post Graduate,Y,87554580,"Senior Advocate, Supreme Court, New Delhi"
+31,Lok Sabha,Uttarakhand,Tehri Garhwal,Mala Rajya Laxmi Shah,BJP,68,F,1846640100,1350000000,0,0,12th Pass,Y,1664412,"MP, Income of interest"
+32,Rajya Sabha,NCT of Delhi,2018-2024,Sushil Kumar Gupta,AAP,56,M,1703143238,85018125,2,1,Graduate Professional,Y,665131,Agriculturist
+33,Lok Sabha,Telangana,Chevella,Dr. Gaddam Ranjith Reddy,TRS,54,M,1634695131,197007553,0,0,Post Graduate,Y,168234433,Business
+34,Lok Sabha,NCT of Delhi,East Delhi,Gautam Gambhir,BJP,37,M,1471587789,342035860,1,2,12th Pass,Y,124039228,Professional Sportman & Commentator & Business
+35,Lok Sabha,Maharashtra,Baramati,Supriya Sadanand Sule,NCP,49,F,1408888704,5500000,0,0,Graduate,Y,12919734,Agriculture & Business
+36,Lok Sabha,Karnataka,"Belgaum: Bye Election On 17-,Apr-21",Angadi Mangal Suresh,BJP,58,F,1372971953,995443806,0,0,Graduate,Y,43060,"Agriculturist, Business & Social Service"
+37,Lok Sabha,West Bengal,"Asansol: Bye Election On 12-,Apr-22",Shatrughan Prasad Sinha,AITC,75,M,1327455927,291301186,2,2,Graduate,Y,5852890,Film Actor & Former Member of Parliament
+38,Rajya Sabha,Rajasthan,2022-2028,Mukul Balkrishna Wasnik,INC,62,M,1316051802,26434455,0,0,Post Graduate,Y,1361990,Political Worker
+39,Lok Sabha,Telangana,Zahirabad,B.B. Patil,TRS,63,M,1287851556,11535000,18,0,Graduate,Y,5300810,Agriculturist & Member of Parliament
+40,Lok Sabha,Maharashtra,Madha,Ranjeetsinha Hindurao Naik Nimbalkar,BJP,42,M,1275160578,896315287,2,1,12th Pass,Y,36499269,Business & Agriculture
+41,Lok Sabha,Telangana,Medak,Kotha Prabhakar Reddy,TRS,53,M,1266581773,268266203,0,0,Graduate,Y,7366199,MEMBER OF PARLIAMENT
+42,Lok Sabha,Uttar Pradesh,Jhansi,Anurag Sharma,BJP,54,M,1243060113,14212970,0,0,Post Graduate,Y,44339588,Salary & Business
+43,Rajya Sabha,Telangana,2022-2028,Sri Divakonda Damodar Rao,TRS,64,M,1241174793,490176214,1,0,Graduate Professional,Y,38788540,Business
+44,Lok Sabha,Rajasthan,Tonk Sawai Madhopur,Sukhbir Singh Jaunapuria,BJP,61,M,1233802420,0,0,0,12th Pass,Y,1016800,Business of Real Estate Development
+45,Rajya Sabha,Bihar,2020-2026,Prem Chand Gupta,RJD,70,M,1182187640,5300000,2,1,Graduate,Y,3197672,Social Service
+46,Lok Sabha,Odisha,Puri,Pinaki Misra,BJD,59,M,1174701344,21932742,0,0,Graduate Professional,Y,241826630,Sr Advocate
+47,Lok Sabha,Karnataka,Chikkballapur,B.N.Bache Gowda,BJP,76,M,1153501141,0,0,0,Graduate Professional,Y,13754372,Pubilc Representative and Pubilc Service
+48,Lok Sabha,Tamil Nadu,Arakkonam,S. Jagathrakshakan,DMK,71,M,1146984897,166365972,2,7,10th Pass,Y,1859492,Social Worker and Business
+49,Rajya Sabha,Telangana,2020-2026,K R Suresh Reddy,TRS,61,M,1083361181,20000000,0,0,Graduate,Y,4895460,Business & Agriculture
+50,Lok Sabha,Telangana,Khammam,Nama Nageswr Rao,TRS,62,M,1074671341,80721594,5,11,12th Pass,Y,5067143,Agriculutre
+51,Rajya Sabha,Madhya Pradesh,2022-2028,Vivekkrishna Tankha,INC,65,M,1059551194,70239585,0,0,Graduate Professional,Y,69277680,Advocate
+52,Lok Sabha,Maharashtra,Maval,Shrirang Chandu Barne,SHS,55,M,1023310134,416612,3,0,8th Pass,Y,3316783,"Agriculture, Construction Business"
+53,Rajya Sabha,Maharashtra,2022-2028,Piyush Vedprakash Goyal,BJP,57,M,1003357767,142856249,0,0,Graduate Professional,Y,6237566,Cabinet Minister in Government of India
+54,Lok Sabha,Andhra Pradesh,Machilipatnam,Balashowry Vallabhaneni,YSRCP,50,M,990575840,746310844,2,0,Post Graduate,Y,3864230,Business
+55,Lok Sabha,Tamil Nadu,Perambalur,Paarivendhar T R,DMK,77,M,972730368,65935070,2,0,Post Graduate,Y,8131997,"Educationist, Founder-Chancellor of SRM University"
+56,Rajya Sabha,Punjab,2022-2028,Ashok,AAP,57,M,913459504,0,0,0,Graduate Professional,Y,5551770,Business
+57,Rajya Sabha,Maharashtra,2018-2024,Narayan Tatu Rane,BJP,65,M,877784105,305581732,1,2,10th Pass,Y,4758430,Business
+58,Lok Sabha,Telangana,Nizamabad,Dharmapuri Arvind,BJP,43,M,876930468,337580746,1,0,Post Graduate,Y,14021322,Business
+59,Lok Sabha,Punjab,Gurdaspur,Ajay Singh Dharmendra Deol (Sunny Deol),BJP,59,M,871925679,534644785,0,0,Others,Y,6382180,"Actor, Director & Producer in the Film Industry"
+60,Rajya Sabha,Maharashtra,2022-2028,Dhananjay Bhimrao Mahadik,BJP,50,M,840808000,150628000,9,3,Graduate,Y,34130310,Business
+61,Rajya Sabha,Punjab,2022-2028,Harbhajan Singh,AAP,41,M,818010986,346790,0,0,12th Pass,Y,57816730,Ex-Cricketer & Commentator
+62,Lok Sabha,Andhra Pradesh,Vijayawada,Srinivas Kesineni,TDP,53,M,808152415,512332955,0,0,10th Pass,Y,600000,"Business, Social Service & Member of Parliament"
+63,Rajya Sabha,Andhra Pradesh,2022-2028,Niranjan Reddy Sirgapoor,YSRCP,52,M,799436959,109933532,0,0,Graduate Professional,Y,94809600,Advocate
+64,Lok Sabha,Tamil Nadu,Sivaganga,Karti P Chidambaram,INC,47,M,793729024,174081116,8,5,Graduate Professional,Y,17585390,Business
+65,Lok Sabha,Assam,Dhubri,Badruddin Ajmal,AIUDF,63,M,788064044,10159381,7,6,Post Graduate,Y,42900270,Business
+66,Rajya Sabha,Chhattisgarh,2022-2028,Shri Rajeev Shukla,INC,64,M,778259792,120000000,0,0,Post Graduate,Y,1315860,Vice President BCCI
+67,Lok Sabha,Jharkhand,Hazaribagh,Jayant Sinha,BJP,55,M,770749002,193271437,0,0,Post Graduate,Y,3591290,Member of Parliament Govt. of India
+68,Rajya Sabha,Gujarat,2020-2026,Naraharibhai Amin,BJP,64,M,755897209,86945009,0,0,Graduate Professional,Y,310710850,Business
+69,Lok Sabha,Karnataka,Bangalore Central,P. C. Mohan,BJP,55,M,755529306,312521957,0,0,12th Pass,Y,5923790,Business & Social Worker
+70,Lok Sabha,Karnataka,Haveri,Udasi. S.C.,BJP,52,M,718499195,165566495,0,0,12th Pass,Y,2935970,Agriculture and Businees
+71,Lok Sabha,Dadra & Nagar Haveli,Dadra And Nagar Haveli : Bye Election On 30-10-2021,Delkar Kalaben Mohanbhai,Shiv Sena (Uddhav Balasaheb Thackeray),50,F,707774495,22768079,0,0,Graduate,Y,9218050,Business & Social worker
+72,Lok Sabha,Karnataka,Shimoga,B.Y.Raghavendra,BJP,46,M,674093851,14150647,2,0,Graduate Professional,Y,11282896,"Agriculturist, Entrepreneur & Businessman"
+73,Lok Sabha,Andhra Pradesh,Rajampet,P.V.Midhun Reddy,YSRCP,42,M,665085701,205473477,3,2,Post Graduate,Y,4172020,Member of Parliament & Agriculturalist
+74,Rajya Sabha,Karnataka,2018-2024,Rajeev Chandrasekhar,BJP,53,M,646035965,12240661,4,0,Doctorate,Y,280096150,Entrepreneur/ Social Service
+75,Lok Sabha,Punjab,Patiala,Preneet Kaur,INC,74,F,635973757,42453369,0,0,Graduate,Y,4704830,Business / Politician
+76,Lok Sabha,Assam,Gauhati,Queen Oja,BJP,67,F,630219570,34034178,0,0,Graduate,Y,4955640,Business
+77,Lok Sabha,Maharashtra,Bhandara Gondiya,Sunil Baburao Mendhe,BJP,50,M,627543615,19861338,2,0,Others,Y,1556100,"Agriculture, Self Employed, (Partner of Aswale Infra), Secretary, Satyam Education Society Bhandara. Tah, Dist.Bhandara."
+78,Rajya Sabha,Chhattisgarh,2020-2026,Kavi Tejpal Singh Tulsi,INC,72,M,611800735,6887399,0,0,Graduate Professional,Y,33162000,"Senior Advocate, Supreme Court of India"
+79,Lok Sabha,Uttar Pradesh,Pilibhit,Feroze Varun Gandhi,BJP,39,M,603200539,28952800,0,0,Post Graduate,Y,4932580,"Salary & Allowances From Parliament, Property Rent"
+80,Lok Sabha,Jammu & Kashmir,Baramulla,Mohammad Akbar Lone,Jammu & Kashmir National Conference,71,M,597434000,104935,0,0,Graduate Professional,Y,696000,"Political Activist, Advocate, Former MLA"
+81,Lok Sabha,Tamil Nadu,Vellore,D.M. Kathir Anand,DMK,43,M,587579451,3307588,2,2,Post Graduate,Y,26328640,Self Employed
+82,Lok Sabha,Andhra Pradesh,Nandyal,Pocha Brahmananda Reddy,YSRCP,60,M,585932911,177035582,1,2,Post Graduate,Y,19255840,Agriculture Serivces and Seed production and processing business
+83,Lok Sabha,Uttar Pradesh,Sultanpur,Maneka Sanjay Gandhi,BJP,62,F,556926451,11935800,0,0,12th Pass,Y,23286840,Ministers Salary allowances and Property Rent
+84,Lok Sabha,Meghalaya,Shillong,Vincent H. Pala,INC,51,M,549515421,0,0,0,Graduate Professional,Y,589080,Member of parliament
+85,Rajya Sabha,Karnataka,2022-2028,Lahar Singh Siroya,BJP,73,M,546488300,9300000,0,0,10th Pass,Y,21142540,Business
+86,Lok Sabha,Tamil Nadu,Kanniyakumari : Bye Election On 06-04-2021,Vijayakumar Alias Viyay Vasanth,INC,37,M,532275977,176841,1,0,Post Graduate,Y,2336220,"(1)-Partner in Vasant & Co, Chennai, (2)- Proprietor of ADD2KART Retail"
+87,Rajya Sabha,Uttar Pradesh,2022-2028,Jayant Chaudhary,RLD,43,M,524093536,24807040,0,0,Post Graduate,Y,5390600,"Pension, Agriculture, Financial Investment, Consultancy"
+88,Lok Sabha,Karnataka,Tumkur,G S Basavaraj,BJP,78,M,510779150,113844867,0,0,Graduate Professional,Y,493716,Lawyer
+89,Lok Sabha,Karnataka,Bijapur,Jigajinagi Ramesh Chandappa,BJP,66,M,504122985,1600000,0,0,Graduate,Y,4432850,Agriculture
+90,Rajya Sabha,Uttar Pradesh,2022-2028,Surender Singh Nagar,BJP,56,M,501651263,135887812,2,0,Graduate,Y,4096590,Social Service & Agriculture
+91,Lok Sabha,Tamil Nadu,Namakkal,Chinraj A.K.P,DMK,54,M,485205173,18642484,0,0,Graduate,Y,1491310,BUSINESS AND AGRICULTURE
+92,Lok Sabha,Uttar Pradesh,Gautam Buddha Nagar,Dr. Mahesh Sharma,BJP,59,M,478759568,43863749,0,0,Graduate Professional,Y,4856419,Minister of India Govt.
+93,Rajya Sabha,Bihar,2018-2024,Ahmad Ashfaque Karim,RJD,56,M,476377000,61527000,2,2,Doctorate,Y,10312893,Social Service
+94,Lok Sabha,Chandigarh,Chandigarh,Kirron Kher,BJP,66,F,474983574,6279188,0,0,Post Graduate,Y,8475480,Film Artist/ Member of Parliament
+95,Lok Sabha,Tamil Nadu,Kallakurichi,Gautham Sigamani Pon,DMK,44,M,471186830,81131909,1,3,Post Graduate,Y,31657900,Doctor
+96,Lok Sabha,Andhra Pradesh,Eluru,Sridhar Kotagiri,YSRCP,46,M,462808829,33560974,0,0,Graduate,Y,1061340,Business
+97,Lok Sabha,Jharkhand,Godda,Nishikant Dubey,BJP,47,M,462757500,0,4,4,Doctorate,Y,1809470,Member of Parliment Godda Jharkhand
+98,Lok Sabha,Andhra Pradesh,Rajahmundry,Margani Bharat Ram,YSRCP,36,M,458205360,17814757,2,1,Graduate,Y,1905494,Construction and Jewellery Business
+99,Lok Sabha,Gujarat,Navsari,Patil Chandrakant,BJP,64,M,446044269,56846658,1,2,10th Pass,Y,6982630,"Business, Agriculture, M.P."
+100,Lok Sabha,Gujarat,Mahesana,Shardaben Anilbhai Patel,BJP,71,F,440308300,7477793,0,0,12th Pass,Y,943100,Social Worker
+101,Rajya Sabha,Haryana,2020-2026,Deepender Singh,INC,42,M,440257883,1846800,0,0,Post Graduate,Y,7476600,Ex-Member of Parliament
+102,Lok Sabha,Gujarat,Jamnagar,Poonamben Hematbhai Maadam,BJP,44,F,427331034,98632194,0,0,Graduate,Y,10106520,Business & Agriculturist
+103,Rajya Sabha,Telangana,2022-2024,Ravi Chandra Vaddiraju,TRS,57,M,426055714,141454672,3,5,12th Pass,Y,17964319,Business & Agriculture
+104,Lok Sabha,Tamil Nadu,Cuddalore,T. R. V .S. Ramesh,DMK,48,M,423378552,102828604,0,0,Graduate Professional,Y,8692690,Business
+105,Lok Sabha,Haryana,Gurgaon,Rao Inderjit Singh,BJP,69,M,420970754,31500000,0,0,Graduate Professional,Y,15808540,Agriculture and Social Welfare
+106,Lok Sabha,Maharashtra,Bhiwandi,Kapil Moreshwar Patil,BJP,58,M,418850781,5645459,0,0,Graduate,Y,3109620,Business
+107,Rajya Sabha,Tamil Nadu,2020-2026,M. Thambidurai,AIADMK,73,M,413575336,72682292,0,0,Doctorate,Y,862140,Agriculture and Politics
+108,Lok Sabha,Tamil Nadu,Chennai North,Dr. Kalanidhi Veeraswamy,DMK,49,M,405294714,258386550,0,0,Post Graduate,Y,2181280,Doctor
+109,Lok Sabha,Gujarat,Gandhinagar,Amit Shah,BJP,54,M,403275307,4769587,4,4,12th Pass,Y,5390970,Social Worker & Agriculture
+110,Rajya Sabha,Madhya Pradesh,2020-2026,Digvijay Singh,INC,72,M,402342847,23246314,8,3,Graduate Professional,Y,3949240,"Pension Received From MLA, Parliament, Rent, Interest & Agricultural Income, Rent from Hindu Joint Family, Interest, Agricultural Income"
+111,Lok Sabha,Uttar Pradesh,"Mainpuri : Bye Election On 05-,Dec-22",Dimple Yadav,SP,44,F,399150143,3153000,0,0,Graduate,Y,7866472,House Wife & Public Interest
+112,Lok Sabha,Rajasthan,Pali,P. P. Chaudhary,BJP,65,M,385111923,7278041,0,0,Graduate Professional,Y,398860,MP
+113,Lok Sabha,Uttar Pradesh,Etah,Rajveer Singh,BJP,58,M,383629735,100220000,0,0,Graduate Professional,Y,4788860,Business & Agriculture
+114,Lok Sabha,Karnataka,Davanagere,G M Siddeshwar,BJP,67,M,380164932,14670809,0,0,10th Pass,Y,7357079,"Agriculturist and Social Worker, presently service as Lok Sabha Member"
+115,Lok Sabha,Odisha,Bolangir,Smt. Sangeeta Kumari Singh Deo,BJP,57,F,379590851,7500000,0,0,Graduate,Y,893044,"Politics, Social Service & business"
+116,Lok Sabha,Uttar Pradesh,Maharajganj,Pankaj Choudhary,BJP,54,M,371827109,4483048,5,6,12th Pass,Y,605180,Director Harbansram Bhagwandass Ayurdevic Sansthan Pvt. Ltd. Urdu Bazar Gorakhpur
+117,Lok Sabha,Rajasthan,Jhalawar Baran,Dushyant,BJP,48,M,370432373,85824156,0,0,Post Graduate,Y,7111120,"Salary & Allowances (MP Salary & Agriculture Income, Rent, Dividend)"
+118,Lok Sabha,Haryana,Faridabad,Krishan Pal,BJP,62,M,369652786,105593242,0,0,Graduate Professional,Y,2495725,Self Employment
+119,Lok Sabha,West Bengal,Jangipur,Khalilur Rahaman,AITC,58,M,368306705,2248968,0,0,Graduate,Y,10565846,Service
+120,Lok Sabha,Tamil Nadu,Ramanathapura m,K. Navaskani,IUML,39,M,364738171,47008615,1,0,12th Pass,Y,5054480,Rental Income & Cargo Business
+121,Lok Sabha,NCT of Delhi,New Delhi,Meenakashi Lekhi,BJP,51,F,361441689,7938378,0,0,Graduate Professional,Y,2186223,Advocate
+122,Lok Sabha,Gujarat,Porbandar,Rameshbhai Dhaduk,BJP,57,M,357564783,217944697,0,0,10th Pass,Y,11349750,Business (Real Estate and Trading) Farming
+123,Rajya Sabha,Bihar,2018-2024,Akhilesh Prasad Singh,INC,56,M,352006083,0,1,1,Doctorate,Y,4609537,Social Service
+124,Lok Sabha,Kerala,Thiruvananthap uram,Shashi Tharoor,INC,63,M,350022585,0,2,5,Doctorate,Y,36621978,Social Worker
+125,Rajya Sabha,Jharkhand,2018-2024,Dhiraj Prasad Sahu,INC,62,M,348398867,23651926,0,0,Graduate,Y,10047454,Business
+126,Lok Sabha,Karnataka,Chikkodi,Annasaheb Shankar Jolle,BJP,55,M,344922831,195595693,0,0,12th Pass,Y,6293410,"Business, Agriculture and Social Work"
+127,Lok Sabha,Bihar,Vaishali,Veena Devi,LJP,48,F,337284632,112089220,2,2,10th Pass,Y,22152160,Agriculture & Partner in Partnership Firm
+128,Lok Sabha,Bihar,Sheohar,Rama Devi,BJP,69,F,328364940,0,1,1,Graduate Professional,Y,2482600,Agriculture
+129,Rajya Sabha,Maharashtra,2020-2026,Pawar Sharadchandra Govindrao,NCP,79,M,327367269,10000000,1,1,10th Pass,Y,13084940,Agriculture
+130,Lok Sabha,Andhra Pradesh,Kurnool,Dr Sanjeev Kumar,YSRCP,52,M,325914387,62070621,0,0,Post Graduate,Y,11283936,Doctor
+131,Rajya Sabha,Tamil Nadu,2019-2025,Dr. Anbumani Ramadoss,Pattali Makkal Katchi,50,M,323983136,72567670,13,7,Graduate Professional,Y,680000,MBBS
+132,Lok Sabha,West Bengal,Ghatal,Deepak Adhikari,AITC,36,M,317320579,7879681,0,0,Others,Y,22404560,Professional Artist Flim Producer & Distributor and Restaurant Owner
+133,Rajya Sabha,Gujarat,2023-2029,Kesharidevsinh Digvijaysinh Zala,BJP,40,M,315434094,9668161,0,0,12th Pass,Y,14353240,"Builder and Developer, CNG Pump, Hotel"
+134,Lok Sabha,Uttar Pradesh,Ambedkar Nagar,Ritesh Pandey,BSP,35,M,307265103,24739098,1,1,Graduate,Y,12347370,Business And Agriculture and Salary
+135,Lok Sabha,Tamil Nadu,Thoothukkudi,Kanimozhi Karunanidhi,DMK,51,F,303373130,19290928,6,6,Graduate Professional,Y,14029910,Social Worker
+136,Lok Sabha,Bihar,Muzaffarpur,Ajay Nishad,BJP,50,M,298867486,15714320,1,1,Graduate,Y,4858760,"Business, Lok Sabha Member, Social Eork"
+137,Rajya Sabha,Uttar Pradesh,2018-2024,Anil Agrawal,BJP,55,M,288933965,32514292,0,0,Post Graduate,Y,4361621,Business
+138,Lok Sabha,Maharashtra,Latur,Sudhakar Tukaram Shrangare,BJP,57,M,286478302,100250602,0,0,10th Pass,Y,25147718,Contractor
+139,Rajya Sabha,Uttar Pradesh,2018-2024,Gvl Narasimha Rao,BJP,53,M,285520621,0,0,0,Others,Y,1316143,Self Employed
+140,Lok Sabha,Himachal Pradesh,"Mandi : Bye Election On 30-,Oct-21",Pratibha Singh,INC,65,F,282503355,1029992,2,0,Graduate,Y,2407684,Public Life
+141,Rajya Sabha,West Bengal,2023-2029,Derek Obrien,AITC,62,M,276017216,62655561,0,0,Graduate,Y,7382588,"I am a Professional quiz master, author, researcher, television host and CEO of a Pvt. Ltd.,Company"
+142,Lok Sabha,Maharashtra,Nandurbar,Heena Vijaykumar Gavit,BJP,31,F,271634532,15291251,0,0,Post Graduate,Y,794507,"Agriculture, Social Work"
+143,Lok Sabha,West Bengal,Maldaha Dakshin,Abu Hasem Khan Chowdhury,INC,72,M,270959520,728107,0,0,Doctorate,Y,600000,Business and Social Work
+144,Lok Sabha,Odisha,Sambalpur,Nitesh Ganga Deb,BJP,47,M,269543587,10337195,1,2,12th Pass,Y,5156041,"Agriculturist, Politician, Social Service Worker & MLA Deogarh"
+145,Lok Sabha,Andhra Pradesh,Ongole,Magunta Sreenivasulu Reddy,YSRCP,65,M,266583686,91302133,0,0,Graduate,Y,2401816,BUSINESS
+146,Rajya Sabha,Uttar Pradesh,2020-2026,Hardeep Singh Puri,BJP,68,M,261284244,72138712,0,0,Post Graduate,Y,5841635,Retried
+147,Lok Sabha,Uttar Pradesh,Machhlishahr,Bholanath (B.P. Saroj),BJP,58,M,259027394,11194163,0,0,Graduate,Y,512660,Business And Agriculture
+148,Rajya Sabha,Rajasthan,2022-2028,Randeep Singh Surjewala,INC,54,M,254777328,0,2,0,Post Graduate,Y,10953640,Advocate
+149,Lok Sabha,Uttar Pradesh,Pratapgarh,Sangam Lal Gupta,BJP,48,M,248789514,8895225,2,2,8th Pass,Y,2779676,Business & MLA Pretapgarh UP
+150,Rajya Sabha,Andhra Pradesh,2022-2028,Venumbaka Vijaya Sai Reddy,YSRCP,65,M,245756817,2465694,19,11,Others,Y,1124950,Professional- Chartered Accountant and Politics
+151,Lok Sabha,Telangana,Malkajgiri,Anumula Revanth Reddy,INC,51,M,245357182,27807304,42,19,Graduate,Y,868920,Agriculture and politics
+152,Lok Sabha,NCT of Delhi,North East Delhi,Manoj Tiwari,BJP,48,M,242817031,13618755,3,1,Post Graduate,Y,4803290,Singer-Actor and Member of Parliament
+153,Lok Sabha,Maharashtra,"Satara : Bye Election On 21-,Oct-19",Shriniwas Dadasaheb Patil,NCP,78,M,241285292,4629892,0,0,Post Graduate,Y,10804124,Agriculture
+154,Lok Sabha,Haryana,Sonipat,Ramesh Chander Kaushik,BJP,62,M,235859266,0,0,0,Graduate Professional,Y,1780300,Advocate
+155,Lok Sabha,Bihar,Patna Sahib,Ravi Shankar Prasad,BJP,64,M,235275591,0,0,0,Post Graduate,Y,9690510,"Senior Advocate, Supreme court of india (Not Practicing) Presently Union Minister for Law & Justice and Electronics & Information Technology"
+156,Lok Sabha,Tamil Nadu,Arani,Vishnuprasad. M.K,INC,46,M,234564815,33409505,1,2,Graduate Professional,Y,21937510,Business
+157,Lok Sabha,Karnataka,Mandya,Sumalatha Ambareesh,IND,55,F,234154139,14232295,0,0,10th Pass,Y,13315757,Film Artist and Brand Consulting
+158,Lok Sabha,Uttar Pradesh,Hardoi,Jai Prakash,BJP,61,M,234032624,2615368,0,0,Graduate,Y,3425610,Pension Agriculture Gas Agency
+159,Lok Sabha,Tamil Nadu,Tirunelveli,Gnanathiraviam S,DMK,54,M,232759237,46149049,4,0,10th Pass,Y,9405899,"Individual Business, Partner in RAG Security Team, And Director In Annai Wind Frams India P Ltd., Annai Greeen Energy P LTD., Annai Resorts And Spa P Ltd .,"
+160,Lok Sabha,Uttar Pradesh,Gonda,Kirti Vardhan Singh Alias Raja Bhaiya,BJP,53,M,232735285,23201603,0,0,Post Graduate,Y,6654258,Agriculture and politics
+161,Lok Sabha,Rajasthan,Bhilwara,Subhash Chandra Baheria,BJP,62,M,232703276,1827380,0,0,Graduate,Y,5501600,Clothes Business & Job
+162,Lok Sabha,Maharashtra,Jalna,Danve Raosaheb Dadarao,BJP,65,M,229557992,2400000,2,1,Graduate,Y,4563741,Agriculture And Social Work
+163,Rajya Sabha,Karnataka,2022-2028,Jaggesh,BJP,59,M,228168985,29524140,0,0,12th Pass,Y,4518130,Cine Actor and Social Service
+164,Lok Sabha,Jharkhand,Chatra,Sunil Kumar Singh,BJP,55,M,226209137,1889051,0,0,Post Graduate,Y,2189270,MBA Marketing
+165,Rajya Sabha,Uttar Pradesh,2018-2024,Anil Kumar Jain,BJP,58,M,216319012,26774154,0,0,Post Graduate,Y,2999220,Medical Professional
+166,Rajya Sabha,Maharashtra,2021-2026,Rajani Ashokrao Patil,INC,62,F,216211102,560701184,4,2,Graduate,Y,1283386,Agriculturist
+167,Lok Sabha,Daman & Diu,Daman And Diu,Patel Lalubhai Babubhai,BJP,63,M,213993750,9969514,0,0,8th Pass,Y,1020398,"Agriculturist, Social Worker"
+168,Lok Sabha,Karnataka,Bangalore North,D.V. Sadananda Gowda,BJP,66,M,209384539,104302653,0,0,Graduate Professional,Y,12800100,Agriculturist and Active Politician
+169,Lok Sabha,Tamil Nadu,Sriperumbudur,Baalu.T.R.,DMK,77,M,208806446,0,0,0,Graduate,Y,1402869,Social Service
+170,Lok Sabha,Uttar Pradesh,Gorakhpur,Ravindra Shyamnarayan Shukla Alias Ravi Kishan,BJP,51,M,208494688,17711043,0,0,12th Pass,Y,5021541,Actor
+171,Lok Sabha,Andhra Pradesh,Kakinada,Vanga Geetha Viswanatham,YSRCP,55,F,202528594,34416887,0,0,Post Graduate,Y,1010010,"Rental Income, Pension Income From Govt.of A.P., Govt.of India & Agrl.Income"
+172,Rajya Sabha,Bihar,2020-2026,Haribansh Narayan Singh,JD(U),63,M,201770728,602227,9,1,Post Graduate,Y,4130850,Social Service
+173,Rajya Sabha,Karnataka,2020-2026,Mallikarjun Kharge,INC,77,M,201246422,2375000,0,0,Graduate Professional,Y,2784530,Advocate
+174,Rajya Sabha,Gujarat,2023-2029,Subrahmanyam Jaishankar Krishnaswamy,BJP,68,M,200928804,112500,0,0,Doctorate,Y,6196960,"Minister of External Affairs, Govt. of India"
+175,Lok Sabha,Bihar,Paschim Champaran,Dr. Sanjay Jaiswal,BJP,54,M,199404885,67370030,5,3,Post Graduate,Y,3600770,Salary and Allowance (M.P.) and Shivam Nursing Home
+176,Lok Sabha,Maharashtra,Sangli,Sanjaykaka Patil,BJP,54,M,191192187,23345328,1,0,10th Pass,Y,830892,Agricultural & Business
+177,Rajya Sabha,Maharashtra,2020-2026,Dr. Fauzia Tahseen Ahmed Khan,NCP,63,F,189303500,58427505,2,0,Doctorate,Y,874431,Agriculture
+178,Lok Sabha,Maharashtra,Nagpur,Nitin Jairam Gadkari,BJP,62,M,187916075,40729055,4,5,Graduate Professional,Y,640700,Agriculture
+179,Rajya Sabha,Maharashtra,2022-2028,Sanjay Rajaram Raut,Shiv Sena (Uddhav Balasaheb Thackeray),61,M,187175401,33877666,12,6,Graduate,Y,2799169,"Executive Editor (On Contract basis), Member of Parliament & Writer"
+180,Lok Sabha,Bihar,Ujiarpur,Nityanand Rai,BJP,53,M,187007570,357561,3,4,Graduate,Y,1229782,Agriculture and ANIMAL HUSBANDRY
+181,Lok Sabha,Andhra Pradesh,Kadapa,Yeduguri Sandinti Avinash Reddy,YSRCP,34,M,186969794,22833319,4,4,Post Graduate,Y,4338560,Agriculture and Social Service
+182,Rajya Sabha,Tamil Nadu,2019-2025,P. Wilson,DMK,53,M,185103509,38202363,0,0,Graduate Professional,Y,17485560,Senior Advocate
+183,Lok Sabha,Maharashtra,Thane,Rajan Baburao Vichare,Shiv Sena (Uddhav Balasaheb Thackeray),57,M,181441465,54080733,9,7,12th Pass,Y,1588070,Business
+184,Lok Sabha,NCT of Delhi,South Delhi,Ramesh Bidhuri,BJP,57,M,180052708,2038454,2,0,Graduate Professional,Y,1672740,Business
+185,Lok Sabha,Telangana,Hyderabad,Asaduddin Owaisi,AIMIM,49,M,179044376,120500000,5,4,Graduate Professional,Y,1001080,Politician
+186,Lok Sabha,Andhra Pradesh,Narasaraopet,Lavu Sri Krishna Devarayalu,YSRCP,36,M,177710073,10142413,0,0,Graduate Professional,Y,11646460,Educationalist
+187,Lok Sabha,Bihar,Nawada,Chandan Singh,LJP,36,M,176720167,4722200,2,4,Graduate,Y,1920000,Agriculture & Business
+188,Lok Sabha,West Bengal,Sreerampur,Kalyan Banerjee,AITC,62,M,175968902,5522403,0,0,Graduate Professional,Y,36597120,Legal Practitioner(Senior Advocate)
+189,Rajya Sabha,Maharashtra,2018-2024,Anil Yeshwant Desai,Shiv Sena (Uddhav Balasaheb Thackeray),60,M,175235716,29068694,4,0,Graduate Professional,Y,2201640,Business
+190,Lok Sabha,Karnataka,Kolar,S. Muniswamy,BJP,44,M,174557500,19865690,2,0,12th Pass,Y,0,Agriculturist & BBMP Corporator
+191,Lok Sabha,Maharashtra,Raver,Khadse Raksha Nikhil,BJP,31,F,172713734,0,0,0,Graduate,Y,8755323,Farming & Business
+192,Lok Sabha,Uttar Pradesh,Phulpur,Keshari Devi Patel,BJP,62,F,172707104,6505194,2,2,Post Graduate,Y,897233,Agricuture & Consultancy
+193,Rajya Sabha,Odisha,2019-2024,Ashwini Vaishnaw,BJP,48,M,171820153,0,0,0,Post Graduate,Y,20622156,Entrepreneur/Exec utive
+194,Lok Sabha,Uttar Pradesh,Bansgaon,Kamlesh Paswan,BJP,42,M,171706883,6049264,5,9,Graduate,Y,5298640,"MP, House Property"
+195,Lok Sabha,Maharashtra,Ahmednagar,Sujay Radhakrishna Vikhe,BJP,37,M,168664576,2623964,0,0,Doctorate,Y,8610202,Employee & Social Work
+196,Rajya Sabha,Telangana,2018-2024,Santhosh Kumar Joginipally,TRS,42,M,168007856,58536555,0,0,Post Graduate,Y,18839069,Business
+197,Lok Sabha,Bihar,Aurangabad,Sushil Kumar Singh,BJP,53,M,167895109,3746607,3,2,Post Graduate,Y,939153,Agriculture
+198,Lok Sabha,Maharashtra,Beed,Pritam Gopinathrao Munde,BJP,36,F,167477926,98833794,1,0,Post Graduate,Y,909133,"Farmer, Social Worker"
+199,Lok Sabha,Uttar Pradesh,Hamirpur,Kunwar Pushpendra Singh,BJP,45,M,167159924,35502582,4,2,Post Graduate,Y,5218919,Agriculture & Business
+200,Lok Sabha,Rajasthan,Rajsamand,Diya Kumari,BJP,48,F,165984623,0,0,0,Others,Y,21069799,Business
+201,Lok Sabha,Rajasthan,Jaipur,Ram Charan Bohra,BJP,61,M,165322707,22000000,0,0,12th Pass,Y,1034232,"Business, MP Salary"
+202,Lok Sabha,Telangana,Bhongir,Komatireddy Venakat Reddy,INC,55,M,162543845,24069129,14,4,12th Pass,Y,250000,Agriculture and Politician
+203,Rajya Sabha,Arunachal Pradesh,2020-2026,Nabam Rebia,BJP,58,M,160532310,0,0,0,Graduate Professional,Y,0,Public Leader
+204,Rajya Sabha,Maharashtra,2022-2028,Dr. Anil Sukhdeorao Bonde,BJP,61,M,159379567,2839786,32,5,Post Graduate,Y,5332812,Consulting Physicians
+205,Rajya Sabha,Uttar Pradesh,2019-2024,Sudhanshu Trivedi,BJP,48,M,158958075,0,0,0,Doctorate,Y,7467177,"Spokeperson, Academecian, Engineer"
+206,Lok Sabha,Kerala,Wayanad,Rahul Gandhi,INC,48,M,158877063,7201904,5,2,Post Graduate,Y,11185570,Member of parliment
+207,Lok Sabha,Maharashtra,Dhule,Subhash Ramrao Bhamre,BJP,66,M,158651112,1000000,2,2,Post Graduate,Y,4228849,"Farming, Rent & Payment"
+208,Rajya Sabha,Rajasthan,2019-2024,Manmohan Singh,INC,86,M,157752837,0,1,0,Doctorate,Y,8942390,"Academician Former Civil Servent, Former Prime Minister of India and Ex- member of Parliament"
+209,Lok Sabha,Maharashtra,Mumbai North,Gopal Chinnaya Shetty,BJP,65,M,157535232,21136135,9,2,5th Pass,Y,804562,Business- Labour Job for Machinery Part Repairing & Plastic Items
+210,Lok Sabha,NCT of Delhi,West Delhi,Parvesh Sahib Singh,BJP,41,M,155195014,40097329,0,0,Post Graduate,Y,1700203,Member Of Parliament & Business and Social Work
+211,Lok Sabha,Madhya Pradesh,Hoshangabad,Rao Uday Pratap Singh,BJP,54,M,154783105,9103300,1,1,Graduate,Y,1486498,Agriculture
+212,Lok Sabha,Punjab,Anandpur Sahib,Manish Tewari,INC,53,M,154637860,0,0,0,Graduate Professional,Y,9615250,Lawyer
+213,Lok Sabha,West Bengal,Darjeeling,Raju Bista,BJP,33,M,151106062,27428941,0,0,Graduate,Y,20471143,Manning Director Surya Roshini Ltd
+214,Lok Sabha,Chhattisgarh,Korba,Jyotsna Mahant,INC,65,F,150639697,0,0,0,Post Graduate,Y,517422,Farming and Social Work
+215,Lok Sabha,Tamil Nadu,Dindigul,Velusamy P,DMK,52,M,148076407,31474526,0,0,Illiterate,Y,9284216,Business and Agriculturist
+216,Lok Sabha,Maharashtra,Nashik,Hemant Tukaram Godse,SHS,49,M,146869996,41083126,1,0,Others,Y,747466,Builder and Developers & Agriculture
+217,Lok Sabha,Haryana,Hisar,Brijendra Singh,BJP,46,M,146408734,27225637,0,0,Post Graduate,Y,2642856,Voluntarily Retired IAS (Government) Officer (Haryana Cadre)
+218,Lok Sabha,Kerala,Attingal,Adoor Prakash,INC,63,M,144098612,27622685,7,2,Graduate Professional,Y,3759648,Lawyer
+219,Lok Sabha,Karnataka,Chamarajanaga r,V Srinivas Prasad,BJP,71,M,143804441,324909,0,0,Post Graduate,Y,2577270,Business (LPG Distributor for Bharath Petrolium Corporation Limited)
+220,Lok Sabha,Rajasthan,Dausa,Jaskaur Meena,BJP,71,F,143742564,5825431,0,0,Post Graduate,Y,6934765,"Pensioner, Agriculture , Dairy,,farm"
+221,Rajya Sabha,Assam,2020-2026,Bhubaneswar Kalita,BJP,68,M,143570835,0,0,0,Post Graduate,Y,2754941,Advocate
+222,Rajya Sabha,Uttar Pradesh,2020-2026,Ram Gopal Yadav,SP,74,M,141973086,8916648,0,0,Doctorate,Y,4795692,Agriculture and Social Service
+223,Rajya Sabha,Karnataka,2018-2024,G.c. Chandrashekar,INC,54,M,141486000,0,0,0,Post Graduate,Y,1141540,Educationist
+224,Lok Sabha,Uttar Pradesh,Jaunpur,Shyam Singh Yadav,BSP,65,M,140717620,3577000,0,0,Post Graduate,Y,1108499,Advocate
+225,Rajya Sabha,Maharashtra,2020-2026,Dr. Bhagwat Kishanrao Karad,BJP,65,M,140465443,46841300,0,0,Post Graduate,Y,931190,Medical Practitioner
+226,Lok Sabha,Bihar,Jahanabad,Chandeshwar Prasad,JD(U),68,M,139271693,0,3,0,10th Pass,Y,1300490,Social Service
+227,Lok Sabha,Rajasthan,Jodhpur,Gajendra Singh Shekhawat,BJP,51,M,138029511,58573744,1,0,Post Graduate,Y,918390,Member of Parliament
+228,Lok Sabha,Arunachal Pradesh,Arunachal East,Tapir Gao,BJP,54,M,136628259,0,0,0,Post Graduate,Y,4850150,Political Leader-BJP Natinal General Secretary
+229,Rajya Sabha,Kerala,2022-2028,Jebi Mether Hisham,INC,43,F,135234236,4616575,11,0,Post Graduate,Y,952530,Lawyer
+230,Lok Sabha,Tamil Nadu,Tiruvannamalai,Annadurai C N,DMK,45,M,134897466,32243604,0,0,Graduate,Y,1924030,Construction
+231,Rajya Sabha,West Bengal,2020-2026,Bikash Ranjan Bhattacharyya,CPI(M),68,M,133560015,24413787,0,0,Graduate Professional,Y,20372170,Practicing Senior Advocate
+232,Lok Sabha,Tamil Nadu,Pollachi,K Shanmugasundar am,DMK,49,M,133109284,13360639,0,0,Graduate Professional,Y,717360,Business
+233,Lok Sabha,Punjab,"Sangrur : Bye Election On 23-,Jun-22",Simranjit Singh Mann,"SAD,(Amritsar)(S imranjit Singh Mann)",77,M,132657286,1892311,1,0,Graduate,Y,798327,Agriculture and Pensioner and Rent
+234,Lok Sabha,Uttar Pradesh,Kanpur,Satyadev Pachauri,BJP,71,M,132382819,31052190,0,0,Post Graduate,Y,2011940,Business Firm Mesars Janta Steel
+235,Lok Sabha,Andaman & Nicobar Islands,Andaman And Nicobar Islands,Kuldeep Rai Sharma,INC,52,M,132233012,80450870,0,0,Graduate Professional,Y,503738,"Business, Social Service"
+236,Lok Sabha,Mizoram,Mizoram,C Lalrosanga,MNF,62,M,131201374,0,0,0,Graduate,Y,1769750,Pensioner
+237,Lok Sabha,NCT of Delhi,North West Delhi,Hans Raj Hans,BJP,57,M,130937732,47897494,0,0,10th Pass,Y,928030,Professional Singer
+238,Lok Sabha,Nagaland,Nagaland,Tokheho Yepthomi,Nationalist Democratic Progressive Party,62,M,128117474,18600000,0,0,Graduate,Y,0,Politician
+239,Lok Sabha,Rajasthan,Jaipur Rural,Col. Rajyavardhan Rathore,BJP,49,M,127808070,0,0,0,Graduate,Y,8878370,Professional Sportsman & Ex- Serviceman
+240,Lok Sabha,Maharashtra,Raigad,Tatkare Sunil Dattatray,NCP,64,M,127487277,3221073,0,0,Others,Y,6244283,Agriculture
+241,Lok Sabha,Uttar Pradesh,Bareilly,Santosh Kumar Gangwar,BJP,70,M,126356142,13055209,0,0,Graduate Professional,Y,755047,"Business & Agriculture, Salary (M.P.) & Pension"
+242,Lok Sabha,Maharashtra,Amravati,Navneet Ravi Rana,IND,33,F,124554656,70576979,1,2,10th Pass,Y,424013,Social Worker and Farmer
+243,Lok Sabha,Maharashtra,Dindori,Bharti Pawar,BJP,40,F,122885349,1449572,0,0,Graduate Professional,Y,472797,"Doctor, Farmer, Business"
+244,Lok Sabha,Andhra Pradesh,Srikakulam,Rammohannaidu Kinjarapu,TDP,32,M,122791042,12000000,1,0,Post Graduate,Y,1515142,Public Representative
+245,Rajya Sabha,Bihar,2022-2028,Dr. Faiyaz Ahmad,RJD,58,M,122569584,0,1,0,Doctorate,Y,3001526,Agriculture & Social Science & Others
+246,Lok Sabha,Jammu & Kashmir,Srinagar,Farooq Abdullah,Jammu & Kashmir National Conference,83,M,121904435,0,1,2,Graduate Professional,Y,2860341,Political Social Activist
+247,Lok Sabha,Tamil Nadu,Krishnagiri,Dr.A.Chellakumar,INC,58,M,121087979,66817959,5,7,Post Graduate,Y,4307623,"Business; Dealership for Hindustan Petroleum Corporation Limited, Let our Commercial Properties for Rent"
+248,Lok Sabha,Uttar Pradesh,Rae Bareli,Sonia Gandhi,INC,72,F,118263916,0,1,2,Others,Y,961700,Member of Parliament
+249,Lok Sabha,Tamil Nadu,Chennai Central,Dayanidhi Maran,DMK,52,M,116790616,0,1,3,Graduate,Y,28368820,Salaried
+250,Lok Sabha,Maharashtra,Buldhana,Prataprao Ganpatrao Jadhav,SHS,58,M,116272966,735482,3,7,12th Pass,Y,2412977,Farming
+251,Lok Sabha,Kerala,Vadakara,K. Muraleedharan,INC,62,M,114379340,0,3,0,Graduate,Y,3425540,MLA From Vattiyookavu
+252,Lok Sabha,Maharashtra,Shirdi,Sadashiv Kisan Lokhande,SHS,57,M,113710526,205100,1,0,10th Pass,Y,571263,"Agriculture, Social Work & Lok Sabha Member"
+253,Rajya Sabha,Chhattisgarh,2022-2028,Smt Ranjeet Ranjan,INC,48,F,112989609,1661808,8,3,12th Pass,Y,436473,"Social Worker, Public Representatives"
+254,Rajya Sabha,Uttar Pradesh,2020-2026,Arun Singh,BJP,55,M,111674999,4160696,0,0,Graduate,Y,2652120,Chartered Accountant
+255,Lok Sabha,Karnataka,Dharwad,Pralhad Joshi,BJP,56,M,111384447,51736254,1,1,Graduate,Y,5354096,Social service & bussiness
+256,Lok Sabha,Uttar Pradesh,Amethi,Smriti Irani,BJP,43,F,111099609,0,0,0,12th Pass,Y,4659714,Public Servant
+257,Rajya Sabha,Maharashtra,2018-2024,Javadekar Prakash Keshav,BJP,67,M,110593529,34365105,0,0,Graduate,Y,1192197,Social Worker
+258,Lok Sabha,Bihar,Khagaria,Choudhary Mahbub Ali Kaisar,LJP,52,M,109788313,0,1,0,Graduate,Y,1394197,Agriculture
+259,Lok Sabha,Uttar Pradesh,Aligarh,Satish Kumar Gautam,BJP,46,M,109522559,28095176,0,0,10th Pass,Y,2219933,Business
+260,Rajya Sabha,Tamil Nadu,2020-2026,G.k. Vasan,Tamil Maanila Congress (Moopanar),55,M,109083744,10898678,0,0,Graduate,Y,377621,Agriculturalist
+261,Lok Sabha,Puducherry,Puducherry,V. Vaithilingam,INC,68,M,108015548,520989,0,0,Graduate,Y,1977333,Agriculture
+262,Lok Sabha,Odisha,Cuttack,Bhartruhari Mahtab,BJD,62,M,106894976,0,0,0,Post Graduate,Y,953599,Writer & Social Work
+263,Lok Sabha,Maharashtra,Mumbai North West,Gajanan Chandrakant Kirtikar,SHS,75,M,105392000,4032000,0,0,Graduate,Y,12200145,Consultant Salaried And Farming
+264,Lok Sabha,Karnataka,Udupi Chikmagalur,Shobha Karandlaje,BJP,52,F,104872668,49936840,3,1,Post Graduate,Y,2416090,Member of Lok Sabha
+265,Rajya Sabha,Uttar Pradesh,2022-2028,Dr. K Laxman,BJP,66,M,104819992,8436216,1,0,Doctorate,Y,1602345,Public Service
+266,Rajya Sabha,Odisha,2019-2024,Amar Patnaik,BJD,52,M,104573484,6323497,1,0,Doctorate,Y,1853797,"Advocate, Consultant, Social Activist"
+267,Lok Sabha,Uttar Pradesh,Domariyaganj,Jagdambika Pal,BJP,68,M,103366710,2838478,3,0,Post Graduate,Y,1749096,MPs Parliament
+268,Lok Sabha,West Bengal,Baharampur,Adhir Ranjan Chowdhury,INC,63,M,101315437,8506984,7,12,10th Pass,Y,1225610,Politician & Social Worker
+269,Lok Sabha,Uttar Pradesh,Kaiserganj,Brij Bhushan Sharan Singh,BJP,62,M,98905402,61524736,4,6,Graduate Professional,Y,920199,Agriculture
+270,Lok Sabha,Karnataka,Hassan,Prajwal R,JD(S),28,M,97848632,37253210,0,0,Graduate Professional,Y,1659720,Channambika Convention Hall Partner
+271,Lok Sabha,Jharkhand,Kodarma,Annapurna Devi,BJP,50,F,97636939,3189066,0,0,Post Graduate,Y,4702466,Social Worker & Business
+272,Lok Sabha,Maharashtra,Yavatmal Washim,Bhavana Pundlikrao Gawali,SHS,46,F,96873189,7396250,3,0,Graduate,Y,3786400,Gajanan Oil Mill (Proprietor)
+273,Lok Sabha,Karnataka,Chitradurga,A Narayanaswamy,BJP,62,M,96197642,0,0,0,Graduate,Y,816400,Business
+274,Rajya Sabha,NCT of Delhi,2018-2024,Narain Dass Gupta,AAP,72,M,96115547,0,0,0,Graduate Professional,Y,11369066,Chartered Accountant
+275,Lok Sabha,Maharashtra,Ramtek,Krupal Balaji Tumane,SHS,53,M,95603165,4228793,0,0,Graduate,Y,1268021,"Business - Proprietor Oil Agency, Panjari Nagpur"
+276,Lok Sabha,Maharashtra,Kolhapur,Sanjay Sadashivrao Mandlik,SHS,54,M,95171892,10580414,0,0,Post Graduate,Y,1163249,Farmer
+277,Rajya Sabha,Bihar,2022-2028,Smt. Misha Bharti,RJD,45,F,94641921,97288,4,1,Graduate Professional,Y,902370,"Poltics, Social Work & Agriculture"
+278,Lok Sabha,Uttar Pradesh,Bhadohi,Ramesh Chand,BJP,44,M,94089148,21696413,6,8,10th Pass,Y,1211925,Business
+279,Rajya Sabha,Maharashtra,2020-2026,Priyanka Vickram Chaturvedi,Shiv Sena (Uddhav Balasaheb Thackeray),41,F,92535989,6012220,0,0,Graduate,Y,954798,Consultant / Business
+280,Lok Sabha,Tamil Nadu,Chennai South,Sumathy Alias Thamizhachi Thangapandian,DMK,56,F,91793460,500000,0,0,Doctorate,Y,3336947,"Public Life, Agriculture, Educationalist, Writer"
+281,Lok Sabha,Andhra Pradesh,Anakapalle,Dr.Beesetti Venkata Satyavathi,YSRCP,52,F,91526244,11139279,0,0,Graduate Professional,Y,3535660,Medical doctor
+282,Lok Sabha,Jharkhand,Khunti,Arjun Munda,BJP,50,M,91507865,27106434,0,0,12th Pass,Y,1459348,"Social Service, Politics, Agriculture"
+283,Lok Sabha,Bihar,Kishanganj,Dr. Mohammad Jawed,INC,54,M,90973803,5383958,1,0,Graduate Professional,Y,2143910,Agriculture & Business & Doctor
+284,Lok Sabha,Madhya Pradesh,Mandsour,Sudheer Gupta,BJP,59,M,90908944,799283,1,0,Post Graduate,Y,972603,Parliament of India & LIC Aggent
+285,Rajya Sabha,Uttar Pradesh,2022-2028,Sangeeta Yadav,BJP,40,F,89772031,44477000,0,0,Graduate Professional,Y,73270,House Wife and Vidhan Sabha Pension
+286,Rajya Sabha,Uttar Pradesh,2020-2026,Neeraj Shekhar,BJP,51,M,89678468,6000000,0,0,Graduate,Y,1428645,"Social Service, MP Salary Allowance"
+287,Lok Sabha,Gujarat,Ahmedabad West,Dr. Solanki Kiritbhai,BJP,69,M,89474039,0,0,0,Post Graduate,Y,1157624,Tabibi Doctor
+288,Rajya Sabha,Karnataka,2018-2024,Dr.l. Hanumanthaiah,INC,59,M,88881685,28000000,0,0,Doctorate,Y,616564,"Agricultural, Social Worker"
+289,Lok Sabha,Madhya Pradesh,Balaghat,Dr. Dhal Singh Bisen,BJP,66,M,88648133,1530693,0,0,Others,Y,689677,Farming and Medical Store
+290,Lok Sabha,Uttar Pradesh,Lalganj,Sangeeta Azad,BSP,44,F,88451770,0,0,0,Graduate Professional,Y,1339248,Agricuture & Business
+291,Lok Sabha,Rajasthan,Jalore,Devaji Patel,BJP,42,M,88332292,60936530,0,0,10th Pass,Y,425000,Agriculture & Parliament Member
+292,Lok Sabha,Bihar,Munger,Rajiv Ranjan Singh,JD(U),65,M,88324866,7534918,1,1,Graduate,Y,3284500,Social Service
+293,Lok Sabha,Bihar,Jhanjharpur,Ramprit Mandal,JD(U),63,M,88119686,1000000,1,2,10th Pass,Y,527548,Business & Agriculture
+294,Rajya Sabha,Karnataka,2020-2026,H.d.devegowda,JD(S),87,M,88066556,9798283,0,0,Others,Y,1025450,Agriculturist / Public Servant
+295,Rajya Sabha,Bihar,2022-2028,Khiru Mahto,JD(U),68,M,87925635,1792417,0,0,10th Pass,Y,2896980,Business & Social Service
+296,Lok Sabha,Jammu & Kashmir,Anantnag,Hasnain Masoodi,Jammu & Kashmir National Conference,65,M,87620672,0,0,0,Post Graduate,Y,895650,"Sr Advocate, Superme Court of India"
+297,Lok Sabha,Maharashtra,Palghar,Gavit Rajendra Dhedya,SHS,51,M,87616920,30223375,0,0,Graduate,Y,5601307,Retail & Wholesale Trading of LPG & Agriculture
+298,Lok Sabha,Andhra Pradesh,Amalapuram,Chinta Anuradha,YSRCP,46,F,85993362,2431407,0,0,Graduate,Y,625126,House Wife
+299,Lok Sabha,Himachal Pradesh,Kangra,Kishan Kapoor,BJP,67,M,85841247,3605161,2,4,12th Pass,Y,3480926,Business
+300,Rajya Sabha,Gujarat,2018-2024,Parshottambhai Rupala,BJP,63,M,85322231,0,0,0,Graduate Professional,Y,1743642,Public Life And Farming
+301,Lok Sabha,Rajasthan,Ajmer,Bhagirath Chaudhary,BJP,64,M,85101774,8319942,0,0,12th Pass,Y,3166843,Business
+302,Lok Sabha,Karnataka,Uttara Kannada,Anantkumar Hegde,BJP,51,M,84755455,41016655,4,4,12th Pass,Y,414206,Business and Agriculture
+303,Lok Sabha,Bihar,Begusarai,Giriraj Singh,BJP,66,M,83024577,12236000,6,9,Graduate,Y,750600,Social Service
+304,Rajya Sabha,Odisha,2022-2028,Manas Ranjan Mangaraj,BJD,51,M,82556881,2682386,0,0,Post Graduate,Y,2085840,Social Worker & Businessman
+305,Lok Sabha,Telangana,Secunderabad,Gangapuram Kishan Reddy,BJP,58,M,81430778,4500000,0,0,Others,Y,439550,Social Sevice & Agriculture
+306,Lok Sabha,Punjab,Khadoor Sahib,Jasbir Singh Gill,INC,48,M,81393500,4655000,0,0,Others,Y,1770757,Agriculturist
+307,Rajya Sabha,Tamil Nadu,2022-2028,Thiru. R. Girirajan,DMK,61,M,80969009,60768212,0,0,Post Graduate,Y,1259830,Advocate
+308,Lok Sabha,Bihar,Saran,Rajiv Pratap Rudy,BJP,58,M,80740349,0,0,0,Post Graduate,Y,680953,Social Service & Aviator
+309,Rajya Sabha,Tamil Nadu,2020-2026,N.r.elango,DMK,53,M,80346698,15150967,0,0,Graduate Professional,Y,14210480,Designated as Senior Advocate & Practicing in the Honble Supreme Court of India & Honble High Court of Judicature at Madras
+310,Lok Sabha,Bihar,Arrah,R. K. Singh,BJP,66,M,79971720,0,1,0,Graduate Professional,Y,3125690,Member of Parliament and Electricity and Minister of State for Renewable Energy
+311,Lok Sabha,Goa,South Goa,Cosme Francisco Caitano Sardinha,INC,73,M,79402232,0,0,0,Graduate Professional,Y,1515772,Social Worker
+312,Lok Sabha,Gujarat,Surendranagar,Mahendrabhai Munjpara,BJP,50,M,79084513,14822528,0,0,Post Graduate,Y,1892275,"Therapist, Janseva Hospital Vadhvan"
+313,Lok Sabha,Uttar Pradesh,Baghpat,Dr. Satyapal Singh,BJP,63,M,78195793,0,1,0,Post Graduate,Y,761445,Retired Government Officer
+314,Lok Sabha,Maharashtra,Akola,Sanjay Shamrao Dhotre,BJP,60,M,77153230,14985774,1,0,Graduate Professional,Y,551594,"Business (Proprietor,Sonal Engg. Works,Akola) & Agriculture"
+315,Lok Sabha,Gujarat,Anand,Miteshbhai Patel,BJP,54,M,77043053,7810840,2,9,Others,Y,1406020,Business/ Director (Pvt.Ltd.)
+316,Lok Sabha,Uttar Pradesh,"Azamgarh : Bye Election On 23-,Jun-22","Dinesh Lal Yadav ""Nirahua""",BJP,43,M,76746563,2088413,1,0,12th Pass,Y,1757340,Actor
+317,Rajya Sabha,Rajasthan,2022-2028,Pramod Kumar,INC,71,M,75624884,0,0,0,Graduate Professional,Y,2406760,"Advocate, Agriculture, Pension & Rent"
+318,Rajya Sabha,Gujarat,2018-2024,Amee Yajnik,INC,58,F,75283094,5500000,0,0,Doctorate,Y,2396310,Lawyer
+319,Rajya Sabha,Jharkhand,2020-2026,Shibu Soren,JMM,73,M,75166798,15371069,0,0,10th Pass,Y,1189940,Social Service
+320,Lok Sabha,Uttar Pradesh,Farrukhabad,Mukesh Rajput,BJP,50,M,74964501,388246,0,0,Graduate,Y,608954,Agriculture
+321,Lok Sabha,Uttar Pradesh,Amroha,Kunwar Danish Ali,BSP,43,M,74920879,19579691,0,0,Graduate,Y,666228,Agriculture
+322,Lok Sabha,Gujarat,Ahmedabad East,Patel Hasmukhbhai Somabhai,BJP,58,M,74699690,6252577,0,0,Others,Y,1006167,Business
+323,Lok Sabha,Uttar Pradesh,Agra,Satyapal Singh Baghel,BJP,58,M,74274036,8606522,5,8,Doctorate,Y,1358580,"Former MPs Pension, Associate Professor Agra College, MLA & Minister Salary"
+324,Lok Sabha,Odisha,Sundargarh,Jual Oram,BJP,58,M,74185014,12743330,2,0,Others,Y,1323288,Agriculture & Social Work
+325,Lok Sabha,Assam,Nawgong,Pradyut Bordoloi,INC,59,M,74143272,4011152,0,0,Post Graduate,Y,2521500,"Pensioner, Strategic Business Consultat"
+326,Lok Sabha,Uttar Pradesh,Sitapur,Rajesh Verma,BJP,58,M,73129716,108148,1,2,Post Graduate,Y,2921157,"Business, Agriculture, Received honorariam as a Member of Parliament"
+327,Rajya Sabha,Tamil Nadu,2021-2025,M.mohamed Abdulla,DMK,46,M,71848445,43288807,0,0,Post Graduate,Y,3596220,Financial Consultant
+328,Rajya Sabha,Uttarakhand,2022-2028,Kalpana Saini,BJP,62,F,71139122,640000,0,0,Doctorate,Y,1277580,"Retired, Agriculture"
+329,Lok Sabha,Jammu & Kashmir,Udhampur,Dr. Jitendra Singh,BJP,62,M,70827203,0,0,0,Post Graduate,Y,2021390,"Retired Professor of Medicines, G.M.C, Jammu A/P Minister of State (IC), Govt. of India"
+330,Rajya Sabha,Maharashtra,2018-2024,Chavan Vandana Hemant,NCP,56,F,70477933,0,0,0,Graduate Professional,Y,1477164,Profession as Lawyer
+331,Rajya Sabha,Uttar Pradesh,2022-2028,Dr. Radha Mohan Das Agarwal,BJP,67,M,69417053,202000,2,5,Post Graduate,Y,2843119,"Ex-MLAs Pension, Medical Profession"
+332,Lok Sabha,Gujarat,Rajkot,Kundaria Mohanbhai,BJP,67,M,68818120,16566856,0,0,8th Pass,Y,651315,Agriculture & Business
+333,Lok Sabha,Gujarat,Valsad,Dr.K.C.Patel,BJP,69,M,68239480,0,0,0,Graduate Professional,Y,2390234,"Agriculture, Doctor"
+334,Rajya Sabha,Maharashtra,2020-2026,Athawale Ramdas Bandu,RPI(A),61,M,68013776,3301800,1,0,12th Pass,Y,1357340,Social Worker
+335,Lok Sabha,Madhya Pradesh,Khargone,Gajendra Umrao Singh Patel,BJP,43,M,67303990,1885020,0,0,Graduate Professional,Y,4996005,Agriculture & Business (Petrol Pump Dealership)
+336,Lok Sabha,Uttar Pradesh,Ghosi,Atul Kumar Singh,BSP,36,M,66536025,3454591,13,14,Graduate,Y,1648650,Business/ Director Kusum Vijan Infra Pvt. Ltd.
+337,Rajya Sabha,Rajasthan,2020-2026,Rajendra Gehlot,BJP,69,M,66224635,301486,0,0,12th Pass,Y,937622,"Agriculture, Pension, Interest & Rent Income"
+338,Lok Sabha,Maharashtra,Wardha,Ramdas Chandrabhanji Tadas,BJP,65,M,65807822,8961387,0,0,10th Pass,Y,928600,Farmer and House Rent
+339,Lok Sabha,Tamil Nadu,Theni,P. Raveendranath Kumar,AIADMK,39,M,65803231,32734079,0,0,Post Graduate,Y,12559753,"agriculture, business"
+340,Lok Sabha,Goa,North Goa,Shripad Yesso Naik,BJP,66,M,65795623,1491387,0,0,Graduate,Y,715270,Business
+341,Lok Sabha,Rajasthan,Karauli Dholpur,Manoj Rajoria,BJP,49,M,64867148,22121569,0,0,Post Graduate,Y,3992025,Business
+342,Rajya Sabha,Tamil Nadu,2021-2026,Dr. Kanimozhi Nvn Somu,DMK,48,F,63899576,29011150,0,0,Post Graduate,Y,3107430,Practicing Doctor
+343,Lok Sabha,Telangana,Mahbubnagar,Manne Srinivas Reddy,TRS,60,M,63353123,4569251,0,0,12th Pass,Y,10818786,Business
+344,Lok Sabha,Bihar,Hajipur,Pashupati Kumar Paras,LJP,66,M,62834200,6744375,1,0,Graduate Professional,Y,1660255,"Bihar Legislative Council Member,Minister Bihar Government & Social Worker"
+345,Lok Sabha,West Bengal,Kolkata Uttar,Bandyopadhyay Sudip,AITC,70,M,61176355,0,2,2,Graduate,Y,1473426,M.P.
+346,Lok Sabha,Bihar,Sitamarhi,Sunil Kumar,JD(U),58,M,60717031,10277790,6,5,Graduate,Y,1986988,Social Service
+347,Lok Sabha,Haryana,Bhiwani Mahendragarh,Dharambir Singh,BJP,64,M,60642205,240000,0,0,Graduate,Y,1332309,No
+348,Rajya Sabha,Kerala,2021-2024,Jose K Mani,Kerala Congress (M),57,M,60578677,0,0,0,Post Graduate,Y,977130,Politician (Ex Member of Parliament)
+349,Lok Sabha,Tamil Nadu,Salem,Parthiban.S.R,DMK,49,M,60045532,4039841,4,0,Graduate Professional,Y,419978,"Agriculture, Advocate"
+350,Rajya Sabha,Tamil Nadu,2022-2028,Thiru. S. Kalyanasundaram,DMK,81,M,59659812,2529738,11,0,8th Pass,Y,686700,Agriculture
+351,Lok Sabha,Uttar Pradesh,Kaushambi,Vinod Kumar Sonkar,BJP,49,M,59336113,20730086,4,4,Graduate,Y,3305570,Business
+352,Lok Sabha,Madhya Pradesh,Indore,Shankar Lalwani,BJP,57,M,59038508,2106382,2,1,Graduate Professional,Y,1067560,Consultant
+353,Lok Sabha,Madhya Pradesh,Gwalior,Vivek Narayan Shejwalkar,BJP,71,M,58911673,0,0,0,Graduate Professional,Y,1103370,Social Worker
+354,Lok Sabha,Rajasthan,Banswara,Kanakmal Katara,BJP,62,M,58711904,1746729,0,0,Graduate Professional,Y,1866530,"Business & Agriculture, Rent"
+355,Rajya Sabha,Uttar Pradesh,2020-2026,Brijlal,BJP,65,M,58375226,0,0,0,Post Graduate,Y,2049049,nan
+356,Lok Sabha,Himachal Pradesh,Hamirpur,Anurag Singh Thakur,BJP,45,M,56770463,1085145,3,1,Graduate,Y,1702090,"Businessman, Social Activists and at present Member of Lok Sabha"
+357,Rajya Sabha,Uttar Pradesh,2018-2024,Ashok Bajpayi,BJP,66,M,56683694,5200000,0,0,Doctorate,Y,411352,Agriculture/Social Work
+358,Lok Sabha,Uttar Pradesh,Ghaziabad,Vijay Kumar Singh,BJP,67,M,56545702,0,2,1,Doctorate,Y,2226440,Pension
+359,Lok Sabha,Jammu & Kashmir,Jammu,Jugal Kishore,BJP,56,M,56481801,350040219,0,0,10th Pass,Y,810206,Politician and Businessman
+360,Rajya Sabha,Bihar,2020-2024,Sushil Kumar Modi,BJP,68,M,56443386,2853157,2,1,Graduate,Y,400150,"Social Worker & Political Activist MLC in Bihar Legislative Council.,Dy. Chief Minister of Bihar till 16/11/2020"
+361,Rajya Sabha,Uttar Pradesh,2022-2028,Mithlesh Kumar,BJP,57,M,56164729,24980000,0,0,Graduate,Y,845270,Agriculture
+362,Lok Sabha,Uttar Pradesh,Moradabad,Dr. S T Hasan,SP,60,M,55795546,500000,0,0,Post Graduate,Y,692332,Doctor & Agriculture
+363,Lok Sabha,Uttar Pradesh,Banda,R.K. Singh Patel,BJP,59,M,55794086,0,2,3,Graduate,Y,763535,"Social Worker, Politician,Agricultur e"
+364,Rajya Sabha,Rajasthan,2022-2028,Ghanshyam Tiwari,BJP,75,M,55651237,64628611,0,0,Graduate Professional,Y,928500,Political & Cultural Work(Farmer by tradition)
+365,Lok Sabha,Uttar Pradesh,Mohanlalganj,Kaushal Kishore,BJP,59,M,55530561,0,1,1,Graduate,Y,1830000,Agriculture & MP Salary
+366,Lok Sabha,Maharashtra,Mumbai North East,Manoj Kishorbhai Kotak,BJP,46,M,54661944,2048000,2,2,10th Pass,Y,1192860,Business
+367,Lok Sabha,Uttar Pradesh,Kannauj,Subrat Pathak,BJP,39,M,54287991,28993930,11,9,Graduate,Y,1315540,Busines
+368,Lok Sabha,Punjab,Ludhiana,Ravneet Singh Bittu,INC,43,M,54281096,3331266,3,2,12th Pass,Y,608562,Agriculturist
+369,Rajya Sabha,Uttar Pradesh,2022-2028,Babu Ram Nishad,BJP,53,M,54047065,28125000,2,1,Graduate Professional,Y,910940,"Agriculture, Rent, Salary from Corporation and Bank Interest"
+370,Rajya Sabha,Haryana,2020-2026,Ram Chander Jangra,BJP,69,M,53906000,0,0,0,Graduate,Y,0,Social Worker and Politician
+371,Rajya Sabha,Rajasthan,2020-2026,Neeraj Dangi,INC,50,M,52313677,1022221,0,0,Graduate Professional,Y,318040,Business
+372,Lok Sabha,Maharashtra,Nanded,Chikhalikar Pratap Govindrao,BJP,57,M,52178606,594000,0,0,12th Pass,Y,2237403,Farmer
+373,Lok Sabha,Karnataka,Bidar,Bhagwanth Khuba,BJP,50,M,51836416,10239000,1,1,Graduate Professional,Y,651122,Agriculture & Politician
+374,Lok Sabha,Madhya Pradesh,"Khandwa : Bye Election On 30-,Oct-21",Gyaneshwar Patil,BJP,52,M,51831369,5747840,1,0,12th Pass,Y,934785,Farmer
+375,Rajya Sabha,West Bengal,2021-2026,Jawhar Sircara,AITC,69,M,51615870,0,0,0,Post Graduate,Y,2454815,Retired IAS Officer and Ex-CEO of Prasar Bharati
+376,Lok Sabha,Madhya Pradesh,Sidhi,Riti Pathak,BJP,41,F,51541791,505922,0,0,Post Graduate,Y,1056065,Agriculture And Social Worker
+377,Lok Sabha,Uttar Pradesh,Lucknow,Rajnath Singh,BJP,67,M,51492709,0,0,0,Post Graduate,Y,1936664,Agriculture & Pension & Salary from MPs
+378,Lok Sabha,Tamil Nadu,Tenkasi,Dhanush M Kumar,DMK,44,M,51360700,2896862,1,1,Post Graduate,Y,755338,Agriculture
+379,Lok Sabha,Madhya Pradesh,Bhind,Sandhya Ray,BJP,45,F,51108660,13400000,0,0,Post Graduate,Y,420000,Agriculture & Honorarium
+380,Lok Sabha,Maharashtra,Ratnagiri Sindhudurg,Vinayak Bhaurao Raut,Shiv Sena (Uddhav Balasaheb Thackeray),65,M,50660534,2830000,3,1,Post Graduate,Y,875450,Social Worker
+381,Lok Sabha,Maharashtra,Osmanabad,Omprakash Bhupalsinh Alias Pavan Rajenimbalkar,Shiv Sena (Uddhav Balasaheb Thackeray),35,M,50299295,10045858,4,0,12th Pass,Y,1237526,Agriculture
+382,Lok Sabha,Maharashtra,Gadchiroli Chimur,Ashok Mahadevrao Nete,BJP,55,M,50136369,15682840,0,0,12th Pass,Y,670913,"Member of Indian Parliament, Owner of Shivkrupa motor driving school"
+383,Rajya Sabha,Tamil Nadu,2020-2026,Tiruchi Siva,DMK,64,M,49810877,2772000,0,0,Post Graduate,Y,1786990,Orator & Member of Parliament (Rajya Sabha)
+384,Lok Sabha,Tamil Nadu,Virudhunagar,Manickam Tagore  B.,INC,44,M,49705799,3600203,1,0,Graduate Professional,Y,710345,Advocate Profession & Law Consultancy
+385,Lok Sabha,Tamil Nadu,Nilgiris,A. Raja,DMK,55,M,49591024,1424914,6,4,Graduate Professional,Y,995310,ADVOCATE
+386,Rajya Sabha,Goa,2023-2029,Sadanand Shet Tanawde,BJP,56,M,49038410,0,0,0,Post Graduate,Y,4758520,Business
+387,Lok Sabha,Uttar Pradesh,Misrikh,Ashok Kumar,BJP,52,M,48771207,5735470,0,0,Post Graduate,Y,1494200,"Pension,Rent,Salary,,Agriculture"
+388,Lok Sabha,West Bengal,Birbhum,Satabdi Roy (Banerjee),AITC,49,F,48652722,18604443,0,0,Graduate,Y,1409830,Performing Artist & Social Worker
+389,Lok Sabha,Tamil Nadu,Dharmapuri,Dnv Senthilkumar.S,DMK,41,M,48477451,6053502,1,0,Post Graduate,Y,1737671,"Doctor ,agriculture"
+390,Rajya Sabha,Sikkim,2018-2024,Hishey Lachungpa,SDF,50,M,48363273,29591329,0,0,Graduate,Y,0,Politician/Social Worker
+391,Lok Sabha,Rajasthan,Kota,Om Birla,BJP,56,M,48347737,0,1,0,Post Graduate,Y,797609,Member of Parliment and Agriculture
+392,Lok Sabha,Rajasthan,Udaipur,Arjunlal Meena,BJP,54,M,48196946,15602872,0,0,Post Graduate,Y,635509,Salary & Allowances From Lok Sabha Secretariat & Income From Agriculture
+393,Lok Sabha,Tamil Nadu,Kancheepuram,Selvam.G,DMK,44,M,48172936,0,0,0,Post Graduate,Y,354956,Agriculture
+394,Lok Sabha,Maharashtra,Hatkanangle,Dhairyashil Sambhajirao Mane,SHS,38,M,47771462,41599959,0,0,Graduate,Y,448587,Agriculturist and Business
+395,Lok Sabha,Rajasthan,Jhunjhunu,Narendra Kumar,BJP,58,M,47474109,3278401,1,0,Graduate,Y,333190,Politician & Agriculture
+396,Rajya Sabha,Andhra Pradesh,2020-2026,Mopidevi Venkata Ramana,YSRCP,55,M,47406223,26100000,2,1,Graduate,Y,1255340,Cabinet Minister in Govt. of Andhra Pradesh
+397,Lok Sabha,Gujarat,Patan,Dabhi Bharatsinhji Shankarji,BJP,64,M,47373221,5613860,0,0,Graduate,Y,971165,Social Worker/ Farming
+398,Lok Sabha,Bihar,Madhubani,Ashok Kumar Yadav,BJP,49,M,46699125,7892847,1,9,Doctorate,Y,901125,"Agriculture & Pension, Salary"
+399,Lok Sabha,Uttar Pradesh,Saharanpur,Haji Fazlur Rehman,BSP,62,M,46146135,60000,0,0,Graduate,Y,4226800,Business
+400,Lok Sabha,Chhattisgarh,Raipur,Sunil Kumar Soni,BJP,57,M,46068126,2482214,0,0,Graduate,Y,466877,Rukmini Jewellers (Proprietor) & Agriculture
+401,Rajya Sabha,Karnataka,2022-2028,Jairam Ramesh,INC,68,M,45696347,3547601,0,0,Post Graduate,Y,2473350,Economist
+402,Lok Sabha,Uttar Pradesh,Bahraich,Akshayabar Lal,BJP,73,M,45691463,3028133,0,0,10th Pass,Y,421771,Agriculture & Interest Salary
+403,Rajya Sabha,Odisha,2022-2028,Sasmit Patra,BJD,43,M,45302610,0,0,0,Doctorate,Y,1014000,"Social Worker, Advocate, Management Professional & Academician"
+404,Lok Sabha,Uttar Pradesh,Kheri,Ajay Kumar,BJP,60,M,45295455,0,1,1,Graduate Professional,Y,885962,Agriculture & Business
+405,Rajya Sabha,Jharkhand,2020-2026,Deepak Prakash,BJP,59,M,45279800,639833,1,0,Post Graduate,Y,1197414,Social Service and Self-Employed
+406,Lok Sabha,Karnataka,Bagalkot,Gaddigoudar Parvatagouda Chandanagouda,BJP,68,M,43980663,7987991,0,0,Graduate Professional,Y,393670,Agriculture & Loyer
+407,Rajya Sabha,Andhra Pradesh,2018-2024,Kanakamedala Ravindra Kumar,TDP,61,M,43965970,0,0,0,Post Graduate,Y,1136979,Senior Advocate
+408,Rajya Sabha,Haryana,2022-2028,Krishan Lal Panwar,BJP,64,M,43844119,0,0,0,12th Pass,Y,3182770,Pensioner (Ex-MLA)
+409,Rajya Sabha,Uttar Pradesh,2018-2024,Kanta Kadam,BJP,53,F,43474756,2736967,0,0,12th Pass,Y,0,Politician
+410,Rajya Sabha,Uttarakhand,2020-2026,Naresh Bansal,BJP,65,M,43463636,0,0,0,Post Graduate,Y,400164,Pension
+411,Lok Sabha,Uttar Pradesh,Shahjahanpur,Arun Kumar Sagar,BJP,42,M,43448049,1179697,1,1,12th Pass,Y,409254,Agriculture & Business
+412,Lok Sabha,Bihar,Karakat,Mahabali Singh,JD(U),64,M,43442051,3000000,3,0,8th Pass,Y,1475504,Agriculture & Social Worker
+413,Lok Sabha,Maharashtra,Shirur,Amol Ramsing Kolhe,NCP,38,M,43351521,1488116,0,0,Graduate Professional,Y,1137770,Business
+414,Lok Sabha,Madhya Pradesh,Damoh,Prahalad Singh Patel,BJP,59,M,43292483,4230614,0,0,Graduate Professional,Y,618660,Agriculture and Member of Parliament
+415,Lok Sabha,Madhya Pradesh,Jabalpur,Rakesh Singh,BJP,56,M,43134351,1387000,1,0,Graduate,Y,639330,Farmer and Member of Parliament (LokSabha)
+416,Lok Sabha,Tamil Nadu,Erode,Ganeshamurthi A,DMK,72,M,43110000,2060000,0,0,Graduate,Y,493176,Agriculture
+417,Rajya Sabha,Punjab,2022-2028,Sandeep Kumar Pathak,AAP,42,M,43098366,18400000,0,0,Doctorate,Y,2316928,Teaching & Research (Previously)
+418,Lok Sabha,Uttar Pradesh,Firozabad,Dr. Chandra Sen Jadon,BJP,68,M,42872395,0,0,0,Graduate Professional,Y,693041,Doctor and Agriculture
+419,Rajya Sabha,Maharashtra,2022-2028,Mohd. Imaran Khan,INC,34,M,42866886,8848252,4,2,Post Graduate,Y,499400,Stage Program of Poetry (Shayar)
+420,Lok Sabha,Haryana,Sirsa,Sunita Duggal,BJP,51,F,42596349,2500000,0,0,Post Graduate,Y,1477069,Politician Ex- Chairperson Haryana Schedule Caste Finance & Development Corportation
+421,Lok Sabha,West Bengal,Dum Dum,Sougata Ray,AITC,71,M,42518790,0,1,0,Post Graduate,Y,2754700,Retired College Teacher
+422,Lok Sabha,Tamil Nadu,Thanjavur,Palanimanickam.S .S,DMK,68,M,42452076,2368600,0,0,Graduate Professional,Y,370174,Agriculture
+423,Lok Sabha,Madhya Pradesh,Ratlam,Guman Singh Damor,BJP,62,M,42072262,4890940,0,0,Graduate Professional,Y,977759,"Income From Pension, Amount to be received by the MLA"
+424,Lok Sabha,Gujarat,Banaskantha,Parbatbhai Patel,BJP,70,M,41819177,4500000,0,0,Graduate Professional,Y,1048301,Farming And Social Work
+425,Lok Sabha,Madhya Pradesh,Satna,Ganesh Singh,BJP,56,M,41719076,0,2,5,Post Graduate,Y,756943,Politics & Agriculture
+426,Lok Sabha,Haryana,Rohtak,Arvind Kumar Sharma,BJP,56,M,41079284,16778090,0,0,Post Graduate,Y,2372044,Dental Surgeon/Pensioner
+427,Lok Sabha,Maharashtra,Parbhani,Jadhav Sanjay (Bandu) Haribhau,Shiv Sena (Uddhav Balasaheb Thackeray),52,M,41040011,4519583,6,0,10th Pass,Y,1794322,Farming & Milk Business
+428,Lok Sabha,Bihar,Purnia,Santosh Kumar,JD(U),42,M,41036294,2500000,1,0,12th Pass,Y,671957,Agriculture
+429,Lok Sabha,Uttar Pradesh,Unnao,Swami Sachchidanand Hari Sakshi,BJP,63,M,40886941,699025,4,14,Doctorate,Y,724714,"Pensioner, Agriculture, Education Institute, Donation Etc."
+430,Lok Sabha,West Bengal,Barasat,Dr. Kakoli Ghoshdastidar,AITC,60,F,40531018,1496059,2,0,Post Graduate,Y,1520430,Doctor
+431,Lok Sabha,Uttar Pradesh,Badaun,Sangh Mitra Maurya,BJP,34,F,40372093,0,2,2,Graduate Professional,Y,674580,Politics
+432,Lok Sabha,Madhya Pradesh,Rajgarh,Rodmal Nagar,BJP,58,M,40198295,3921362,0,0,Graduate,Y,1936920,"Agriculture, Salary & Allowances"
+433,Lok Sabha,Bihar,Buxar,Ashwini Kumar Choubey,BJP,66,M,40183612,1350667,3,2,Graduate,Y,744866,Social Worker & Politics & M.P.
+434,Lok Sabha,Karnataka,Bellary,Y. Devendrappa,BJP,67,M,40107878,250000,0,0,5th Pass,Y,0,Agricultural
+435,Lok Sabha,Odisha,Jagatsinghpur,Rajashree Mallick,BJD,55,F,40023972,1433305,0,0,Graduate Professional,Y,420000,MLA & Acting & Govt. Doctor(Retd. Voluntarily on 2014 Onwards)
+436,Rajya Sabha,Kerala,2021-2027,John Brittas,CPI(M),54,M,39902687,4468518,6,0,Post Graduate,Y,1521880,Media Person
+437,Rajya Sabha,Bihar,2020-2026,Ram Nath Thakur,JD(U),67,M,39593754,0,0,0,12th Pass,Y,997920,Social Service & Poltical Activisit
+438,Lok Sabha,Odisha,Bhadrak,Manjulata Mandal,BJD,42,F,39417891,8958149,0,0,Graduate,Y,1779850,Business
+439,Lok Sabha,Bihar,Sasaram,Chhedi Paswan,BJP,63,M,37786578,2214842,4,3,Post Graduate,Y,622789,nan
+440,Lok Sabha,West Bengal,Tamluk,Dibyendu Adhikari,AITC,42,M,37687867,8397501,1,0,Graduate,Y,1005867,Business(Genral Order Supplier & Transport)
+441,Lok Sabha,Odisha,Koraput,Saptagiri Sankar Ulaka,INC,40,M,37587560,1217963,0,0,Graduate Professional,Y,2488671,Computer Engineering (Software Professional)
+442,Rajya Sabha,Haryana,2018-2024,Devender Paul Vats,BJP,67,M,37536850,0,0,0,Post Graduate,Y,5009938,Doctor
+443,Lok Sabha,Karnataka,Gulbarga,Dr. Umesh G Jadhav,BJP,60,M,37490597,0,0,0,Post Graduate,Y,2912514,Doctor
+444,Lok Sabha,Bihar,Madhepura,Dinesh Chandra Yadav,JD(U),67,M,37420953,700000,1,0,Graduate Professional,Y,939930,Agriculture & MLA Income & Pension
+445,Lok Sabha,Rajasthan,Churu,Rahul Kaswan,BJP,42,M,36723865,15163379,0,0,Graduate,Y,491500,Agriculture
+446,Lok Sabha,Madhya Pradesh,Shahdol,Himadri Singh,BJP,32,F,36564408,1736289,0,0,Graduate,Y,336000,Agriculture & Social Work
+447,Rajya Sabha,Odisha,2018-2024,Prashanta Nanda,BJD,70,M,36554167,0,1,0,Post Graduate,Y,355130,"Social Worker, Film Director & Working for Development of Odia Literature & Culture"
+448,Rajya Sabha,Madhya Pradesh,2018-2024,Dharmendra Pradhan,BJP,49,M,36021214,8942692,3,2,Post Graduate,Y,716092,"Member of Parliament (Rajya Sabha) Union Cabinet Minister, Govt. of India, Minister of Petroleum & Natural Gas, Skill Development & Enterpreneurship"
+449,Lok Sabha,Gujarat,Amreli,Kachhadiya Naranbhai Bhikhabhai,BJP,64,M,35900763,828961,0,0,12th Pass,Y,649062,Farmer
+450,Lok Sabha,Haryana,Kurukshetra,Nayab Singh,BJP,49,M,35785621,5720000,0,0,Graduate Professional,Y,3313352,"MLA, Naraingarh & State Minister, Labour & Employment, Mines & Geology Department & One Under Construction Stone Crusher at Himachal Pradesh"
+451,Lok Sabha,West Bengal,Hooghly,Locket Chatterjee,BJP,45,F,35655698,0,14,27,Graduate,Y,557860,Actress
+452,Rajya Sabha,Uttar Pradesh,2022-2028,Javed Ali Khan,SP,55,M,35447511,0,1,1,Post Graduate,Y,9402,Agriculture
+453,Rajya Sabha,Andhra Pradesh,2022-2028,Ryaga Krishnaiah,YSRCP,68,M,35069438,3926492,0,0,Post Graduate,Y,688722,Agriculture
+454,Rajya Sabha,Himachal Pradesh,2018-2024,J.p. Nadda,BJP,57,M,34988502,2887803,0,0,Graduate Professional,Y,3041797,Member of Parliament Rajyasabha
+455,Lok Sabha,Chhattisgarh,Durg,Vijay Baghel,BJP,59,M,34429027,8748686,0,0,Graduate,Y,816029,Business
+456,Lok Sabha,Punjab,Amritsar,Gurjeet Singh Aujla,INC,46,M,34011739,9031565,0,0,12th Pass,Y,1656010,Self Employed
+457,Lok Sabha,West Bengal,Kanthi,Sisir Kumar Adhikari,AITC,77,M,33979650,0,3,2,12th Pass,Y,900000,Salary
+458,Lok Sabha,Bihar,Purvi Champaran,Radha Mohan Singh,BJP,69,M,33791375,1146627,1,1,Graduate,Y,951424,Agriculture
+459,Rajya Sabha,Bihar,2020-2026,Vivek Thakur,BJP,51,M,33748107,4044500,0,0,Graduate Professional,Y,269166,Agriculture & Business
+460,Lok Sabha,Gujarat,Kachchh,Chavda Vinod Lakhamshi,BJP,40,M,33508455,12458607,0,0,Post Graduate,Y,762464,nan
+461,Lok Sabha,Uttar Pradesh,Chandauli,Dr. Mahendra Nath Pandey,BJP,62,M,33359734,0,0,0,Doctorate,Y,867350,"Agricuture, Parliamentary allowance, Rent"
+462,Rajya Sabha,Tamil Nadu,2022-2028,Thiru. C.ve. Shanmugam,AIADMK,57,M,33353363,1000000,8,2,Graduate Professional,Y,868780,Advocate
+463,Rajya Sabha,Gujarat,2020-2026,Ramilaben Bara,BJP,66,F,33240806,339507,0,0,Graduate Professional,Y,475030,Retired Officer
+464,Rajya Sabha,Jharkhand,2022-2028,Mahua Maji,JMM,57,F,32872272,15672272,0,0,Post Graduate,Y,490490,Business
+465,Lok Sabha,Punjab,Fatehgarh Sahib,Amar Singh,INC,65,M,32808836,0,0,0,Post Graduate,Y,2072900,Retired IAS Officer
+466,Lok Sabha,Bihar,Gopalganj,Dr. Alok Kumar Suman,JD(U),61,M,32739903,3576376,0,0,Post Graduate,Y,1509140,Doctor and Social Service
+467,Rajya Sabha,Uttar Pradesh,2020-2026,Seema,BJP,50,F,32448200,1100000,0,0,Post Graduate,Y,882340,Teacher & Salary
+468,Lok Sabha,Jharkhand,Palamu,Vishnu Dayal Ram,BJP,68,M,32273873,90922,0,0,Graduate,Y,2892760,Politics
+469,Rajya Sabha,Karnataka,2020-2026,Iranna B Kadadi,BJP,54,M,32233016,340000,0,0,10th Pass,Y,936840,Agriculture and Business
+470,Lok Sabha,Tamil Nadu,Tiruchirappalli,Thirunavukkarasa r. Su,INC,69,M,32182184,40208,0,0,Post Graduate,Y,557000,Advocate & Agriculturist
+471,Rajya Sabha,Uttar Pradesh,2022-2028,Luxmikant Bajpayi,BJP,70,M,32109821,1508395,1,0,Graduate Professional,Y,320850,Ayurvedic Medicine Manufacturing Unit
+472,Lok Sabha,Uttar Pradesh,Faizabad,Lallu Singh,BJP,64,M,31884642,11276478,1,3,Post Graduate,Y,788215,"Agricultural, Former MLA & Army Pension, Present Parliament Salary"
+473,Lok Sabha,Odisha,Bhubaneswar,Aparajita Sarangi,BJP,49,F,31677600,4329959,0,0,Graduate,Y,2424090,Social Service Retired from Goverment Service
+474,Lok Sabha,Telangana,Nalgonda,Nalamada Uttam Kumar Reddy,INC,55,M,31501349,1200000,4,4,Graduate,Y,240680,Politician
+475,Rajya Sabha,West Bengal,2018-2024,Santanu Sen,AITC,45,M,31298330,1197000,0,0,Graduate Professional,Y,707900,Medical Practice
+476,Rajya Sabha,Nagaland,2022-2028,S. Phangnon Konyak,BJP,44,F,31262981,0,0,0,Post Graduate,Y,0,Full time party worker
+477,Lok Sabha,Karnataka,Raichur,Raja Amareshwara Naik,BJP,62,M,30638375,678532,0,0,Graduate Professional,Y,632550,Agriculture & Social Service
+478,Rajya Sabha,Tripura,2022-2028,Biplab Kumar Deb,BJP,51,M,30368844,1315060,0,0,Graduate,Y,465950,Social Work
+479,Rajya Sabha,Assam,2019-2025,Birendra Prasad Baishya,AGP,61,M,30256700,726880,0,0,Post Graduate,Y,570588,Social Service Activist
+480,Lok Sabha,NCT of Delhi,Chandni Chowk,Harsh Vardhan,BJP,64,M,30171897,0,0,0,Post Graduate,Y,776152,"Member Of Parliament And Union Minister, Govt Of India"
+481,Lok Sabha,Madhya Pradesh,Vidisha,Ramakant Bhargava,BJP,66,M,30032282,3332012,0,0,12th Pass,Y,1856630,Agriculture
+482,Lok Sabha,Assam,Silchar,Rajdeep Roy,BJP,48,M,29901767,6976701,0,0,Post Graduate,Y,2975500,Orthopedic Surgeon
+483,Lok Sabha,Kerala,Kannur,K Sudhakaran,INC,70,M,29699206,7468633,3,1,Post Graduate,Y,257918,Social Worker
+484,Rajya Sabha,Bihar,2022-2028,Satish Chandra Dubey,BJP,47,M,29585088,6831700,1,0,12th Pass,Y,1939867,"Social & Poltical Activist , Dairy business & its product & Agriculture"
+485,Lok Sabha,Maharashtra,Aurangabad,Imtiaz Jaleel Syed,AIMIM,50,M,29562768,6800000,4,3,Post Graduate,Y,1710890,Public Leader
+486,Rajya Sabha,Odisha,2020-2026,Sujeet Kumar,BJD,44,M,29470530,7494382,0,0,Post Graduate,Y,1433376,"Lawyer, Social Entrepreneur, Consultant for Start-Ups"
+487,Lok Sabha,Uttar Pradesh,Deoria,Ramapati Ram Tripathi,BJP,69,M,29451678,9310684,1,2,Graduate Professional,Y,275446,Doctor
+488,Lok Sabha,Gujarat,Vadodara,Ranjanben Bhatt,BJP,56,F,29426428,0,0,0,12th Pass,Y,791252,Nil
+489,Lok Sabha,Meghalaya,Tura,Agatha K. Sangma,NPP,38,F,29406813,0,0,0,Post Graduate,Y,0,Former Member of Parliament
+490,Lok Sabha,Punjab,Hoshiarpur,Som Parkash,BJP,70,M,29404519,0,0,0,Post Graduate,Y,2325342,Retired I.A.S Officer & MLA From Phagwara
+491,Lok Sabha,Bihar,Nalanda,Kaushlendra Kumar,JD(U),60,M,29251651,2712389,0,0,12th Pass,Y,1184190,MP
+492,Lok Sabha,Bihar,Pataliputra,Ram Kripal Yadav,BJP,58,M,29213467,1717310,0,0,Graduate,Y,609308,Social Worker
+493,Lok Sabha,West Bengal,Basirhat,Nusrat Jahan Ruhi,AITC,28,F,29088391,16881608,0,0,12th Pass,Y,2567125,Acting in Films and Commercials
+494,Lok Sabha,Uttarakhand,Haridwar,Ramesh Pokhriyal Nishank,BJP,59,M,28739888,16444,0,0,Doctorate,Y,819939,Writing publication interest and Salary
+495,Lok Sabha,Karnataka,Koppal,Karadi Sanganna Amarappa,BJP,64,M,28725791,22475333,1,0,10th Pass,Y,3891934,Agriculture
+496,Rajya Sabha,Madhya Pradesh,2021-2024,Dr. L. Murugan,BJP,44,M,28696809,0,23,0,Doctorate,Y,2986150,Agriculture
+497,Lok Sabha,Chhattisgarh,Kanker,Mohan Mandavi,BJP,61,M,28675553,679000,0,0,Post Graduate,Y,2995017,Agriculture and Pension
+498,Lok Sabha,Uttar Pradesh,Nagina,Girish Chandra,BSP,55,M,28659644,9062600,1,0,12th Pass,Y,1040986,1/2 Shares In Bhojpur Filling Station Bhojpur
+499,Lok Sabha,West Bengal,Uluberia,Sajda Ahmed,AITC,57,F,28351569,5322615,0,0,Graduate,Y,730628,Social Service & Business
+500,Lok Sabha,Gujarat,Bardoli,Parbhubhai Nagarbhai Vasava,BJP,49,M,28350217,3676869,0,0,Others,Y,683234,Agriculture
+501,Rajya Sabha,Gujarat,2018-2024,Mansukhbhai Mandaviya,BJP,45,M,27880194,1521905,0,0,Post Graduate,Y,622085,"Social Worker, Farming And Business"
+502,Lok Sabha,Maharashtra,Solapur,Shri. Sha. Bra. Dr. Jay Siddeshwar Shivachrya Mahaswamiji,BJP,63,M,27870079,0,0,0,Graduate,N,0,Not Applicable
+503,Lok Sabha,Jharkhand,Jamshedpur,Bidyut Baran Mahato,BJP,56,M,27750671,2961830,3,1,12th Pass,Y,1198760,Member Of Parliament
+504,Lok Sabha,Chhattisgarh,Surguja,Renuka Singh Saruta,BJP,55,F,27682493,3251275,0,0,12th Pass,Y,519303,Agriculture and Business
+505,Rajya Sabha,Rajasthan,2020-2026,K.c. Venugopal,INC,57,M,27614874,0,3,1,Post Graduate,Y,900000,Social Worker
+506,Lok Sabha,West Bengal,Jaynagar,Pratima Mondal,AITC,53,F,27471675,0,0,0,Post Graduate,Y,1120104,Political (Member Of Parliament )
+507,Lok Sabha,Jharkhand,Dhanbad,Pashupati Nath Singh,BJP,69,M,27286918,0,0,0,Graduate,Y,11315870,Poltician
+508,Rajya Sabha,Uttar Pradesh,2020-2026,Bl Verma,BJP,59,M,27255192,2241237,0,0,Post Graduate,Y,2140716,Business and Agriculture
+509,Lok Sabha,Maharashtra,Mumbai South,Arvind Sawant,Shiv Sena (Uddhav Balasaheb Thackeray),67,M,27181577,0,1,1,Graduate,Y,1218600,Member of Parliament and Trade Union Leader
+510,Lok Sabha,Gujarat,Dahod,Jasvantsinh Sumanbhai Bhabhor,BJP,52,M,27070480,0,0,0,Graduate Professional,Y,852002,"Social Worker, Agriculture And Animal Husbandry"
+511,Lok Sabha,Uttar Pradesh,Salempur,Ravinder,BJP,55,M,27031724,249400,0,0,12th Pass,Y,1937880,Agricuture
+512,Lok Sabha,Uttar Pradesh,Allahabad,Rita Bahuguna Joshi,BJP,69,F,26919330,1600000,6,8,Doctorate,Y,1951130,"Pension for Allahabad University, & Salary and allowances given to the Minister of State by the State Government"
+513,Lok Sabha,Uttar Pradesh,Mirzapur,Anupriya Singh Patel,Apna Dal (Soneylal),37,F,26900662,1805603,2,2,Post Graduate,Y,612030,Social Service and MP
+514,Lok Sabha,Madhya Pradesh,Mandla,Faggan Singh Kulaste,BJP,59,M,26702373,1000075,0,0,Post Graduate,Y,502590,Agriculture
+515,Lok Sabha,West Bengal,Bardhaman Durgapur,Surendrajeet Singh Ahluwalia,BJP,67,M,26521750,744076,0,0,Graduate Professional,Y,0,"Minister,Governme nt of India"
+516,Lok Sabha,West Bengal,Krishnanagar,Mahua Moitra,AITC,44,F,26495250,671138,0,0,Graduate,Y,999090,Public Service
+517,Lok Sabha,Madhya Pradesh,Ujjain,Anil Firojiya,BJP,47,M,26417937,3203766,0,0,12th Pass,Y,910980,"Salary, Pension and Property Broker"
+518,Rajya Sabha,Uttarakhand,2018-2024,Anil Baluni,BJP,47,M,26284410,1850962,0,0,Graduate,Y,120000,Social Worker
+519,Lok Sabha,Kerala,Kottayam,Thomas Chazhikadan,Kerala Congress (M),66,M,26027478,495778,0,0,Graduate Professional,Y,1164350,Chartered Accountant
+520,Lok Sabha,Jharkhand,Singhbhum,Geeta Kora,INC,35,F,25249018,1928508,1,0,Post Graduate,Y,470301,"Political Leader (MLA), Agriculture And Business"
+521,Lok Sabha,Uttar Pradesh,Varanasi,Narendra Modi,BJP,68,M,25136119,0,0,0,Post Graduate,Y,1992520,Public Life & Political Activity
+522,Rajya Sabha,Karnataka,2022-2028,Nirmala Sitharaman,BJP,62,F,25099396,3044838,0,0,Post Graduate,Y,808000,Union Minister
+523,Rajya Sabha,Maharashtra,2018-2024,Ketkar Keshav Alias Kumar,INC,72,M,24916682,0,0,0,Graduate,Y,1848106,Journalist & Writer
+524,Lok Sabha,Telangana,Warangal,Dayakar Pasnori,TRS,51,M,24889712,1428227,0,0,Graduate,Y,2121973,Business and agriculture
+525,Lok Sabha,Chhattisgarh,Rajnandgaon,Santosh Pandey,BJP,51,M,24861970,1519820,0,0,Graduate Professional,Y,531876,Agriculture and Rent
+526,Lok Sabha,Uttar Pradesh,Dhaurahra,Rekha Verma,BJP,45,F,24735488,7095916,3,4,12th Pass,Y,2944974,Agriculture & Business
+527,Lok Sabha,Tamil Nadu,Tiruvallur,Dr.K.Jayakumar,INC,69,M,24583769,0,0,0,Doctorate,Y,210230,Agriculture
+528,Lok Sabha,Uttar Pradesh,Ballia,Virendra Singh,BJP,62,M,24498319,0,2,2,Graduate,Y,614510,Agricuture
+529,Lok Sabha,West Bengal,Jadavpur,Mimi Chakraborty,AITC,30,F,24398786,1900788,0,0,Graduate,Y,1539717,Performing Artist in Cinema & Televison
+530,Rajya Sabha,Tamil Nadu,2019-2025,N. Chandrasegharan,AIADMK,64,M,24205770,4316116,0,0,Graduate,Y,1326755,Transport Contractor
+531,Lok Sabha,Gujarat,Sabarkantha,Rathod Dipsinh Shankarsinh,BJP,67,M,23997443,0,0,0,8th Pass,Y,600000,Farming & MP
+532,Lok Sabha,Gujarat,Surat,Jardosh Darshnaben Vikrambhai,BJP,58,F,23872876,0,0,0,Graduate,Y,695443,Social Worker
+533,Rajya Sabha,Jharkhand,2022-2028,Aditya Prasad,BJP,58,M,23651189,1697784,0,0,Post Graduate,Y,482840,Social Service and Self Employed
+534,Lok Sabha,Rajasthan,Bikaner,Arjun Ram Meghwal,BJP,65,M,23524459,1060314,0,0,Post Graduate,Y,1627363,Pension & Interest & MP Salary
+535,Lok Sabha,Bihar,Supaul,Dileshwar Kamait,JD(U),73,M,23441606,0,2,2,Graduate,Y,767258,Agriculture & Pension
+536,Rajya Sabha,Uttar Pradesh,2018-2024,Vijaypal Singh,BJP,66,M,23358255,0,1,0,Graduate Professional,Y,736060,Advocate
+537,Rajya Sabha,Odisha,2020-2026,Muzibulla Khan,BJD,57,M,23357512,1400000,0,0,10th Pass,Y,746544,"Social Worker, Actor"
+538,Lok Sabha,Madhya Pradesh,Dhar,Chhatar Singh Darbar,BJP,65,M,23198238,2471613,1,2,Post Graduate,Y,650940,"Agriculture, Pension Received as a Former MP"
+539,Rajya Sabha,Telangana,2020-2026,K Keshava Rao,TRS,81,M,23145990,0,0,0,Doctorate,Y,2747620,"Social Service, Public Life"
+540,Lok Sabha,Madhya Pradesh,Morena,Narendra Singh Tomar,BJP,61,M,23062224,6689767,1,0,Graduate,Y,1470843,Social Worker
+541,Lok Sabha,Uttar Pradesh,Robertsganj,Pakauri Lal,Apna Dal (Soneylal),66,M,23048078,684133,0,0,Literate,Y,345810,Agriculture & Pension
+542,Rajya Sabha,Gujarat,2018-2024,Naranbhai Rathwa,INC,54,M,22754992,1900000,2,1,Post Graduate,Y,432980,Political Leading & Farming
+543,Lok Sabha,Odisha,Kendrapara,Anubhav Mohanty,BJD,37,M,22309172,4133506,0,0,Graduate,Y,2821852,"Business, Actor,Social Worker Sitting Member Of Parliament (Rajya- Sabha)"
+544,Lok Sabha,Maharashtra,Mumbai North Central,Poonam Vajendla Rao,BJP,38,F,22242513,0,2,0,Others,Y,1000103,Politician
+545,Lok Sabha,Uttar Pradesh,Kushi Nagar,Vijay Kumar Dubey,BJP,50,M,21860780,316847,2,5,12th Pass,Y,398500,"Agriculture, Pension"
+546,Lok Sabha,Uttar Pradesh,Aonla,Dharmendra Kumar,BJP,50,M,21766502,3324300,0,0,10th Pass,Y,616780,Social Worker
+547,Rajya Sabha,Bihar,2018-2024,Bashishtha Narayan Singh,JD(U),68,M,21698157,0,0,0,Post Graduate,Y,696230,Political Activist
+548,Lok Sabha,Kerala,Kasaragod,Rajmohan Unnithan,INC,65,M,21570257,862257,1,0,Graduate,Y,0,SOCIAL WORKER
+549,Lok Sabha,Madhya Pradesh,Tikamgarh,Virendra Kumar,BJP,65,M,21503766,1974216,0,0,Doctorate,Y,1360552,Social Worker ( Present Member of Lok Sabha)
+550,Lok Sabha,Uttar Pradesh,"Rampur : Bye Election On 23-,Jun-22",Ghanshyam Singh Lodhi,BJP,55,M,21485502,6961860,0,0,10th Pass,Y,1229630,"Agriculture, Petrol Pump"
+551,Rajya Sabha,Rajasthan,2018-2024,Kirodi Lal,BJP,66,M,21086768,5700000,7,0,Graduate Professional,Y,384267,"Agriculture, MLA"
+552,Lok Sabha,Andhra Pradesh,Vizianagaram,Bellana Chandra Sekhar,YSRCP,57,M,21035766,11130148,4,7,Graduate Professional,Y,536782,"Advocate, Cultivation & Business"
+553,Lok Sabha,Rajasthan,Ganganagar,Nihal Chand,BJP,48,M,21014362,3631287,0,0,Graduate,Y,1004790,MPs Salary & Agriculture
+554,Lok Sabha,Assam,Autonomous District,Horen Sing Bey,BJP,49,M,20693570,5956209,2,12,Graduate,Y,1273379,Cultivator & Executive Member (KAAC)
+555,Lok Sabha,Kerala,Chalakudy,Benny Behanan,INC,66,M,20461931,915938,4,0,Graduate,Y,175420,Social work
+556,Lok Sabha,West Bengal,Bardhaman Purba,Sunil Kumar Mondal,AITC,61,M,20371283,148598,0,0,Graduate Professional,Y,1322880,Retired Teacher/Currently Sitting Member of Parliament
+557,Lok Sabha,Madhya Pradesh,Rewa,Janardan Prasad Mishra,BJP,62,M,20359750,580627,0,0,Graduate Professional,Y,1343189,"Agriculture , Member of Parliament"
+558,Lok Sabha,Tamil Nadu,Coimbatore,P R Natarajan,CPI(M),68,M,20284430,3234168,1,0,12th Pass,Y,293502,social worker
+559,Rajya Sabha,West Bengal,2023-2029,Sukhendu Sekhar Ray,AITC,74,M,20220750,357944,1,0,Post Graduate,Y,1387990,Legal Practitioner and Member of Parliament (Rajya Sabha)
+560,Lok Sabha,Bihar,Banka,Giridhari Yadav,JD(U),58,M,19816050,405701,1,1,Post Graduate,Y,410382,Salary and allowance
+561,Lok Sabha,West Bengal,Bankura,Subhas Kumar Sarkar,BJP,65,M,19799440,3261495,1,0,Graduate Professional,Y,1587210,Doctor Medical Practitioner
+562,Lok Sabha,Punjab,Faridkot,Mohammad Sadique,INC,79,M,19793884,311043,0,0,5th Pass,Y,1063392,Folk Singer
+563,Lok Sabha,Telangana,Mahabubabad,Kavitha Malothu,TRS,39,F,19731269,1252068,1,2,Graduate,Y,411956,HOUSEHOLD
+564,Lok Sabha,Rajasthan,Chittorgarh,Chandra Prakash,BJP,43,M,19725115,100000,0,0,Graduate,Y,702650,Agriculture & MP
+565,Lok Sabha,Uttarakhand,Nainital- Udhamsingh Nagar,Ajay Bhatt,BJP,57,M,19699529,0,0,0,Graduate Professional,Y,553192,"Politician, Social Worker"
+566,Lok Sabha,Maharashtra,Kalyan,Dr. Shrikant Eknath Shinde,SHS,32,M,19616515,1241233,1,1,Post Graduate,Y,2850161,Business
+567,Lok Sabha,Manipur,Inner Manipur,Dr Rajkumar Ranjan Singh,BJP,67,M,19616174,0,0,0,Doctorate,Y,755751,"Retired Government Employee/ Director, College Development Council, Manipur University"
+568,Rajya Sabha,West Bengal,2023-2029,Nagendra Ray Alias Anant Maharaj,BJP,64,M,19614965,0,2,1,8th Pass,Y,524830,Retired
+569,Lok Sabha,Kerala,Malappuram : Bye Election On 06-04-2021,Abdussamad Samadani,IUML,62,M,19370167,0,0,0,Post Graduate,Y,660800,Ex MP (Rajyasabha) and Ex MLA (Kerala Legislative Assembly)
+570,Lok Sabha,Bihar,Siwan,Kavita Singh,JD(U),33,F,19325264,412511,4,4,Post Graduate,Y,0,Social Service
+571,Lok Sabha,Bihar,Darbhanga,Gopaljee Thakur,BJP,49,M,19301808,1039660,0,0,Post Graduate,Y,476547,Agriculture & Poltics
+572,Rajya Sabha,Meghalaya,2020-2026,Wanweiroy Kharlukhi,NPP,63,M,19283700,0,0,0,Doctorate,Y,0,Self Employed
+573,Lok Sabha,Uttar Pradesh,Shrawasti,Ram Shiromani,BSP,49,M,19108216,350000,0,0,Graduate Professional,Y,1785235,Business & Agriculture
+574,Rajya Sabha,Tamil Nadu,2020-2026,P. Selvarasu,DMK,69,M,19087788,494410,1,1,8th Pass,Y,345440,Agriculturist &Real Estate Business
+575,Lok Sabha,Maharashtra,Mumbai South Central,Rahul Ramesh Shewale,SHS,47,M,18881363,7778954,0,0,Others,Y,682476,Member Of Parliament
+576,Rajya Sabha,Telangana,2018-2024,Badugula Lingaiah Yadav,TRS,60,M,18799369,2448343,0,0,Graduate Professional,Y,309000,Agricultural
+577,Rajya Sabha,Karnataka,2018-2024,Syed Nasir Hussain,INC,47,M,18779578,576829,0,0,Doctorate,Y,963000,Business
+578,Lok Sabha,Uttar Pradesh,Bulandshahr,Bhola Singh,BJP,42,M,18728861,0,1,1,Graduate,Y,1911858,Salary & Rent & Interst
+579,Lok Sabha,Karnataka,Mysore,Prathap Simha,BJP,42,M,18723762,6586698,3,1,Post Graduate,Y,603937,Kannada newspaper-Writer
+580,Lok Sabha,Maharashtra,Hingoli,Patil Hemant Shriram,SHS,48,M,18594458,1299983,0,0,Graduate,Y,1959025,Business
+581,Lok Sabha,Bihar,Jamui,Chirag Kumar Paswan,LJP,37,M,18466066,0,1,0,Graduate Professional,Y,611597,M.P.( Loksabha) Social Sabha
+582,Lok Sabha,Chhattisgarh,Janjgir Champa,Guharam Ajgalle,BJP,52,M,18400837,0,0,0,Graduate Professional,Y,0,Agriculture and Retd. Pension for ex-mp
+583,Lok Sabha,Uttar Pradesh,Barabanki,Upendra Singh Rawat,BJP,51,M,18050127,3171774,1,1,Post Graduate,Y,701980,Parental Property and Member wages from legislative assembly
+584,Rajya Sabha,West Bengal,2020-2026,Mausam Noor,AITC,40,F,17938009,840890,2,1,Graduate Professional,Y,1014450,"Advocate, Politician and Business"
+585,Lok Sabha,Gujarat,Bhavnagar,Dr.Bharatiben Dhirubhai Shiyal,BJP,55,F,17753161,3689036,0,0,Graduate Professional,Y,589478,Medical Consultant
+586,Lok Sabha,West Bengal,Ranaghat,Jagannath Sarkar,BJP,56,M,17622476,0,1,0,Graduate Professional,Y,828000,Service (Ass. Teacher)
+587,Lok Sabha,Chhattisgarh,Mahasamund,Chunni Lal Sahu,BJP,51,M,17591683,1383014,0,0,Graduate,Y,413901,Farmer
+588,Lok Sabha,Kerala,Kollam,Premachandran N K,Revolutiona ry Socialist Party,58,M,17500650,3270587,5,0,Graduate Professional,Y,432340,Advocate
+589,Rajya Sabha,Tamil Nadu,2022-2028,Thiru. K.r.n.rajeshkumar,DMK,45,M,17455656,0,0,0,Post Graduate,Y,313660,"Agriculture, Business (Maize Trading) and Partnership in finance"
+590,Lok Sabha,Andhra Pradesh,Chittoor,N. Reddeppa,YSRCP,68,M,17355862,1341542,0,0,Post Graduate,Y,975000,Advocate
+591,Lok Sabha,Uttar Pradesh,Kairana,Pradeep Kumar,BJP,48,M,17292937,1300000,5,0,Post Graduate,Y,725910,"Social Service, Politics and Farmer"
+592,Lok Sabha,Punjab,"Jalandhar : Bye Election On 10-,May-23",Sushil Kumar Rinku,AAP,47,M,17017402,6017461,0,0,12th Pass,Y,1147900,Business
+593,Rajya Sabha,Odisha,2022-2028,Sulata Deo,BJD,49,F,16858463,346386,0,0,Graduate,Y,212050,"Social Worker, Educationalist"
+594,Lok Sabha,Telangana,Peddapalle,Venkatesh Netha Borlakunta,TRS,42,M,16597300,0,0,0,Doctorate,Y,1169623,Agriculture (Earlier worked as Dy. Commissioner of Prohibition & Excise and resigned from service)
+595,Lok Sabha,Bihar,"Samastipur (Sc),: Bye Election On 21-10-2019",Prince Raj,LJP,30,M,16568663,2009629,0,0,Post Graduate,Y,783410,"Business, Agriculture & Social Worker"
+596,Lok Sabha,Madhya Pradesh,Sagar,Rajbahadur Singh,BJP,51,M,16416828,547428,1,0,Post Graduate,Y,250710,Rajbahadur Singh Agriculture & Commercial House & Honorarium of president
+597,Lok Sabha,Madhya Pradesh,Guna,Krishna Pal Singh,BJP,43,M,16266408,494053,0,0,Graduate Professional,Y,640145,Clinic
+598,Rajya Sabha,Uttar Pradesh,2020-2026,Ramji,BSP,43,M,15964940,861468,0,0,Post Graduate,Y,248000,Agriculture
+599,Lok Sabha,Odisha,Jajpur,Sarmistha Sethi,BJD,45,F,15837082,0,0,0,Post Graduate,Y,1113415,"Retd.,Administrative Service Cadre Odisha, Social Service"
+600,Lok Sabha,Uttar Pradesh,Muzaffarnagar,Sanjeev Kumar Balyan,BJP,46,M,15781189,2373645,1,0,Doctorate,Y,601667,Agriculture & Social Worker
+601,Rajya Sabha,Tamil Nadu,2019-2025,Vaiko,MDMK,75,M,15768391,0,5,1,Post Graduate,Y,752704,Advocate and Agriculturalist
+602,Lok Sabha,Himachal Pradesh,Shimla,Suresh Kumar Kashyap,BJP,48,M,15705738,7873806,0,0,Post Graduate,Y,1656520,Public Representive as M.L.A & Agriculturist
+603,Rajya Sabha,West Bengal,2020-2026,Subrata Bakshi,AITC,69,M,15428967,137149,0,0,Graduate Professional,Y,2038110,Social Worker & Ex- Member of Parliament
+604,Lok Sabha,Madhya Pradesh,Betul,Durga Das (D.D.) Uikey,BJP,55,M,15413532,875803,0,0,Post Graduate,Y,656568,Retired
+605,Lok Sabha,Arunachal Pradesh,Arunachal West,Kiren Rijiju,BJP,47,M,15279000,0,0,0,Graduate Professional,Y,612700,Social Service
+606,Lok Sabha,Kerala,Alappuzha,A M Ariff,CPI(M),54,M,15268906,2220700,2,0,Graduate Professional,Y,600000,Social Service
+607,Lok Sabha,Uttar Pradesh,Etawah,Dr Ram Shankar Katheria,BJP,54,M,15154538,7304616,12,5,Doctorate,Y,929128,Principal
+608,Lok Sabha,Uttarakhand,Garhwal,Tirath Singh Rawat,BJP,55,M,15032657,3500000,0,0,Post Graduate,Y,355480,"Social Worker, Agriculture"
+609,Lok Sabha,Uttar Pradesh,Hathras,Rajvir Diler,BJP,61,M,14930000,0,0,0,12th Pass,Y,649107,MLA
+610,Rajya Sabha,Chhattisgarh,2018-2024,Saroj Pandey,BJP,48,F,14859546,3488992,0,0,Doctorate,Y,690754,Former M.P Member Pansion
+611,Lok Sabha,Uttar Pradesh,Fatehpur Sikri,Rajkumar Chahar,BJP,52,M,14854247,356404,3,4,Graduate,Y,376545,"Surya Medical Store c/o. Dr. Sunil Kohali narsing home Arjun Nagar, Agra"
+612,Lok Sabha,Karnataka,Dakshina Kannada,Nalin Kumar Kateel,BJP,52,M,14678300,4450945,4,1,10th Pass,Y,621756,Member of Parliament
+613,Lok Sabha,Odisha,Dhenkanal,Mahesh Sahoo,BJD,58,M,14529286,0,1,0,12th Pass,Y,174000,Member Of Odisha Legislative Assembly from Pallahara AC Cum Planing Committee Chairman Angul And Editor Ageiba(News Paper)
+614,Lok Sabha,Assam,Tezpur,Pallab Lochan Das,BJP,41,M,14445139,0,0,0,Graduate,Y,1478860,Labour and Employment and Tea Tribes Welfare Minister Gov. of Assam
+615,Lok Sabha,Assam,Lakhimpur,Pradan Baruah,BJP,53,M,14307978,5839285,0,0,12th Pass,Y,1474351,Social Worker and Farmer
+616,Lok Sabha,Jharkhand,Ranchi,Sanjay Seth,BJP,60,M,14044267,100000,0,0,Graduate Professional,Y,1806420,Social Worker (Ex Chairman JKVIB)
+617,Lok Sabha,West Bengal,Diamond Harbour,Abhishek Banerjee,AITC,31,M,13794320,0,0,0,Graduate,Y,7503130,Salaried
+618,Lok Sabha,Assam,Kaliabor,Gaurav Gogoi,INC,36,M,13727834,1250000,0,0,Post Graduate,Y,707318,Member of parliament
+619,Lok Sabha,Manipur,Outer Manipur,Lorho S. Pfoze,NPF,59,M,13709352,0,0,0,Graduate Professional,Y,0,SELF EMPLOYED
+620,Rajya Sabha,Madhya Pradesh,2018-2024,Ajay Pratap Singh,BJP,50,M,13615025,250000,0,0,Post Graduate,Y,0,Income from Agriculture Land
+621,Rajya Sabha,Himachal Pradesh,2022-2028,Dr Sikander Kumar,BJP,53,M,13586274,1521994,0,0,Doctorate,Y,2309770,"Professor (Ex-Vice Chancellor, Himachal Pradesh University)"
+622,Lok Sabha,Chhattisgarh,Bilaspur,Arun Sao,BJP,51,M,13544588,50000,0,0,Graduate Professional,Y,1037950,Advocate
+623,Lok Sabha,Uttar Pradesh,Meerut,Rajendra Agarwal,BJP,68,M,13489377,1990094,3,0,Post Graduate,Y,688347,MP Salary
+624,Lok Sabha,Jharkhand,Giridih,Chandra Prakash Choudhary,AJSU Party,50,M,13456889,1330000,2,0,Graduate,Y,2133588,Social Service & Politics
+625,Lok Sabha,Kerala,Idukki,Dean Kuriakose,INC,37,M,13395011,10000000,204,37,Post Graduate,Y,0,Advocate
+626,Lok Sabha,Tamil Nadu,Mayiladuthurai,Ramalingam S,DMK,74,M,13355095,215000,0,0,Graduate,Y,251678,Agriculture
+627,Lok Sabha,Bihar,Katihar,Dulal Chandra Goswami,JD(U),51,M,13302734,3130766,1,2,Graduate,Y,293990,Agriculture & Social Service
+628,Lok Sabha,Uttar Pradesh,Sambhal,Dr. Shafiqur Rehman Barq,SP,86,M,13296671,0,0,0,Graduate,Y,0,Pension
+629,Lok Sabha,West Bengal,Howrah,Prasun Banerjee,AITC,64,M,13216066,0,1,0,Graduate,Y,1241050,Social Worker
+630,Rajya Sabha,Madhya Pradesh,2018-2024,Kailash Soni,BJP,67,M,13192901,42000,0,0,Graduate Professional,Y,0,Income from Mesa Baggage Fund and Agriculture Income
+631,Lok Sabha,Gujarat,Kheda,Chauhan Devusinh,BJP,54,M,13023202,995240,0,0,Others,Y,607635,Farmer and Animal Husbandry
+632,Lok Sabha,Assam,Kokrajhar,Naba Kumar Sarania,IND,50,M,13013994,175069,5,14,12th Pass,Y,3752284,nan
+633,Rajya Sabha,Assam,2022-2028,Pabitra Mergherit,BJP,47,M,13008631,2497927,0,0,Others,Y,1194325,Cultural Activist
+634,Rajya Sabha,Tamil Nadu,2022-2028,Thiru. R. Dharmar,AIADMK,52,M,13000718,0,0,0,Graduate,Y,0,"Agriculture, Politics"
+635,Rajya Sabha,West Bengal,2018-2024,Abir Ranjan Biswas,AITC,46,M,13000707,500000,0,0,Post Graduate,Y,487230,"Advocate, Information Technology Consultant"
+636,Lok Sabha,Kerala,Mavelikkara,Kodikunnil Suresh,INC,56,M,12965129,982819,1,0,Graduate Professional,Y,419444,Social Worker
+637,Lok Sabha,Jharkhand,Lohardaga,Sudarshan Bhagat,BJP,52,M,12947303,525000,0,0,Graduate,Y,1315693,"M.P., Central Govt State Minister (Govt.Of India )"
+638,Lok Sabha,Jharkhand,Rajmahal,Vijay Kumar Hansdak,JMM,36,M,12919555,2743560,0,0,10th Pass,Y,1813200,Social Worker & Business
+639,Rajya Sabha,Kerala,2022-2028,Sandosh Kumar,CPI,51,M,12776818,2100000,0,0,Graduate Professional,Y,0,"Social Worker, Advocate"
+640,Lok Sabha,Bihar,Gaya,Vijay Kumar,JD(U),55,M,12766141,3148932,3,5,12th Pass,Y,533280,Business( Transport)
+641,Lok Sabha,Assam,Jorhat,Topon Kumar Gogoi,BJP,50,M,12597461,455398,0,0,Post Graduate,Y,1174406,"MLA, Tea,Cultivation"
+642,Lok Sabha,West Bengal,Arambag,Aparupa Poddar (Afrin Ali),AITC,33,F,12527597,4244000,1,0,Post Graduate,Y,1430473,Profession
+643,Rajya Sabha,Kerala,2018-2024,Binoy Viswam,CPI,62,M,12509618,0,2,0,Graduate Professional,Y,0,Social Activities
+644,Lok Sabha,Kerala,Kozhikode,M.K.Raghavan,INC,66,M,12502009,3174805,1,3,Graduate,Y,609062,Social Worker
+645,Rajya Sabha,Rajasthan,2018-2024,Bhupender Yadav,BJP,48,M,12485915,4044797,0,0,Graduate Professional,Y,448037,Advocate
+646,Lok Sabha,Maharashtra,Jalgaon,Unmesh Bhaiyyasaheb Patil,BJP,41,M,12324604,2529954,1,0,Graduate Professional,Y,1910890,Agriculture And Business
+647,Rajya Sabha,West Bengal,2018-2024,Md. Nadimul Haque,AITC,48,M,12285073,0,0,0,Graduate,Y,937660,Business
+648,Rajya Sabha,Gujarat,2020-2026,Shaktisinh Gohil,INC,60,M,11991079,0,1,0,Post Graduate,Y,530440,"Lawyer, Agriculture, Social And Political Work"
+649,Lok Sabha,Andhra Pradesh,Anantapur,Talari Rangaiah,YSRCP,48,M,11773091,1135547,1,1,Doctorate,Y,1413794,voluntarily retired from government sevice.(G.O.ENCLOS ED)
+650,Lok Sabha,Odisha,Berhampur,Chandra Sekhar Sahu,BJD,68,M,11716989,0,0,0,10th Pass,Y,345000,Social Worker
+651,Lok Sabha,Odisha,Bargarh,Suresh Pujari,BJP,58,M,11673429,0,0,0,Post Graduate,Y,752413,Advocate
+652,Lok Sabha,West Bengal,Jalpaiguri,Jayanta Kumar Roy,BJP,51,M,11625047,1352581,0,0,Graduate Professional,Y,945010,Doctor
+653,Rajya Sabha,Odisha,2022-2026,Niranjan Bishi,BJD,53,M,11617594,2134761,17,15,Graduate Professional,Y,338910,"Social Worker, Agriculture"
+654,Rajya Sabha,Kerala,2018-2024,Elamaram Kareem,CPI(M),64,M,11423120,296000,4,0,12th Pass,Y,0,Social Service
+655,Lok Sabha,Gujarat,Junagadh,Chudasama Rajeshbhai Naranbhai,BJP,36,M,10866041,1481768,1,1,12th Pass,Y,988435,"N.R,Chudasama Firm (Proprietor)"
+656,Lok Sabha,Telangana,Nagarkurnool,Pothuganti Ramulu,TRS,66,M,10778684,0,0,0,Graduate,Y,762856,Agriculture
+657,Rajya Sabha,Uttar Pradesh,2022-2028,Darshna Singh,BJP,47,F,10773206,965280,0,0,Post Graduate,Y,499150,House Wife
+658,Lok Sabha,Uttar Pradesh,Jalaun,Bhanu Pratap Singh,BJP,60,M,10699516,12265,1,1,Post Graduate,Y,720000,Agriculture & MPs Salary
+659,Lok Sabha,Uttar Pradesh,Fatehpur,Sadhvi Niranjan Jyoti,BJP,52,F,10667372,910148,0,0,12th Pass,Y,600000,Narrator
+660,Lok Sabha,West Bengal,Mathurapur,Choudhury Mohan Jatua,AITC,80,M,10667304,0,0,0,Post Graduate,Y,1792699,Retried IPS Officer
+661,Lok Sabha,Madhya Pradesh,Khajuraho,Vishnu Datt Sharma,BJP,49,M,10589334,2507176,0,0,Post Graduate,Y,7970,Agriculturist
+662,Lok Sabha,Bihar,Maharajganj,Janardan Singh Sigriwal,BJP,55,M,10451986,376000,5,5,Graduate,Y,103902,Social Worker
+663,Lok Sabha,West Bengal,Jhargram,Kunar Hembram,BJP,56,M,10387498,565000,0,0,Graduate Professional,Y,348580,Profession - Engineer
+664,Lok Sabha,West Bengal,Kolkata Dakshin,Mala Roy,AITC,61,F,10308401,0,3,1,Graduate,Y,306400,"Social Service, Councillor Ward No-88"
+665,Rajya Sabha,Assam,2019-2025,Kamakhya Prasad Tasa,BJP,43,M,10262015,0,0,0,Post Graduate,Y,702140,Cultivator and Politician
+666,Lok Sabha,Gujarat,Panchmahal,Ratansinh Rathod,BJP,59,M,10260663,1081611,0,0,Graduate Professional,Y,984085,"Social Worker, Agriculture"
+667,Lok Sabha,West Bengal,Maldaha Uttar,Khagen Murmu,BJP,59,M,10232439,1070914,4,2,Graduate,Y,287570,Agriculture
+668,Rajya Sabha,Uttar Pradesh,2018-2024,Harnath Singh Yadao,BJP,77,M,10230873,0,0,0,Graduate,Y,402862,Agriculturist and Pensioner (Uttar Pradesh Legislative Council Rs. 44200/- Per month)
+669,Lok Sabha,Uttarakhand,Almora,Ajay Tamta,BJP,46,M,9910448,55845,0,0,12th Pass,Y,649744,"Member of Parliament, Transporter"
+670,Rajya Sabha,West Bengal,2018-2024,Subhasish Chakraborty,AITC,60,M,9834967,1897600,0,0,Graduate Professional,Y,1450971,Advocate
+671,Rajya Sabha,Tamil Nadu,2019-2025,M. Shanmugam,DMK,79,M,9666865,471058,0,0,10th Pass,Y,0,Agriculture
+672,Lok Sabha,West Bengal,Cooch Behar,Sri Nisith Pramanik,BJP,33,M,9629810,0,11,21,8th Pass,Y,1063615,Assitant Teacher of a Primary School
+673,Lok Sabha,Odisha,Kalahandi,Basanta Kumar Panda,BJP,58,M,9547000,0,3,7,12th Pass,Y,1259500,MLA and Social service and Cultivation
+674,Rajya Sabha,Assam,2020-2026,Ajit Kumar Bhuyan,IND,66,M,9333060,1750000,10,0,Graduate,Y,1152759,Journalist
+675,Rajya Sabha,Himachal Pradesh,2020-2026,Indu Bala Goswami,BJP,53,F,9294910,1582847,0,0,Graduate,Y,681400,"Director, Parmarth International School, Baijnath,Tehsil Baijnath, District Kangra, H.P. Pin Code 176125"
+676,Lok Sabha,Tamil Nadu,Chidambaram,Thirumaavalavan Thol,Viduthalai Chiruthaigal Katchi,56,M,9244092,394248,3,4,Doctorate,Y,200000,POLITICAL
+677,Rajya Sabha,West Bengal,2023-2029,Samirul Islam,AITC,36,M,8971070,380437,0,0,Post Graduate,Y,582670,"Assistant Professor, Andrews College, Kolkata"
+678,Lok Sabha,West Bengal,Murshidabad,Abu Taher Khan,AITC,57,M,8926616,1350000,3,4,8th Pass,Y,345520,"Cultivation, Politics And Social Service"
+679,Rajya Sabha,Mizoram,2020-2026,K Vanlalvena,Mizo National Front,50,M,8836854,0,0,0,Graduate,Y,0,Agriculturist
+680,Rajya Sabha,Bihar,2018-2024,Manoj Kumar Jha,RJD,50,M,8786985,663118,1,0,Doctorate,Y,1784800,Social Services and Teaching (Delhi University)
+681,Lok Sabha,Uttar Pradesh,Basti,Harish Chandra Alias Harish Dwivedi,BJP,45,M,8662344,322490,5,1,Post Graduate,Y,2069874,Agriculture
+682,Lok Sabha,West Bengal,Bishnupur,Saumitra Khan,BJP,38,M,8656777,1077120,6,19,12th Pass,Y,581030,Social Worker
+683,Lok Sabha,Gujarat,Chhota Udaipur,Rathva Gitaben Vajesingbhai,BJP,47,F,8634660,0,0,0,12th Pass,Y,0,Housewife
+684,Lok Sabha,Kerala,Thrissur,T. N. Prathapan,INC,58,M,8609349,2978120,7,1,12th Pass,Y,218771,Social Worker
+685,Lok Sabha,Kerala,Ponnani,E T Mohammed Basheer,IUML,72,M,8103274,0,0,0,10th Pass,Y,712900,Member of Parliament
+686,Lok Sabha,Odisha,Nabarangpur,Ramesh Chandra Majhi,BJD,40,M,8100600,771000,0,0,Graduate,Y,1915840,Cultivator and Business
+687,Lok Sabha,West Bengal,Barrackpur,Arjun Singh,BJP,57,M,8055691,1100000,24,25,10th Pass,Y,887300,Business
+688,Lok Sabha,Tamil Nadu,Tiruppur,Subbarayan.K,CPI,71,M,8035576,500000,0,0,10th Pass,Y,474721,Political Party Worker
+689,Lok Sabha,Kerala,Ernakulam,Hibi Eden,INC,35,M,7908467,200000,7,2,Graduate,Y,150000,Social Worker
+690,Rajya Sabha,Uttar Pradesh,2020-2026,Gita Chandra Prabha,BJP,51,F,7797511,0,0,0,Post Graduate,Y,0,Not Applicable
+691,Lok Sabha,Chhattisgarh,Bastar,Deepak Kumar Baij,INC,38,M,7721293,1801236,1,1,Post Graduate,Y,492000,Farmer
+692,Lok Sabha,Assam,Barpeta,Abdul Khaleque,INC,44,M,7398753,2703693,0,0,Post Graduate,Y,837182,MLA Of 44 Jania Under Assam Legislative Assembly
+693,Rajya Sabha,Bihar,2022-2028,Shambhu Sharan Patel,BJP,40,M,7329000,1868831,1,0,Graduate,Y,498350,Agriculture & Business
+694,Rajya Sabha,Assam,2022-2028,Rwngwra Narzary,United Peoples Party Liberal,52,M,7172754,110000,0,0,Graduate,Y,433520,Social Work
+695,Lok Sabha,Chhattisgarh,Raigarh,Gomati,BJP,43,F,7043539,0,0,0,12th Pass,Y,311354,Agriculture
+696,Lok Sabha,Gujarat,Bharuch,Mansukhbhai Vasava,BJP,61,M,6835957,0,0,0,Post Graduate,Y,444000,Farmer & Social Work
+697,Lok Sabha,Bihar,Bhagalpur,Ajay Kumar Mandal,JD(U),41,M,6801126,5364747,0,0,8th Pass,Y,218260,"Politics, MLA"
+698,Rajya Sabha,Bihar,2022-2024,Aneel Prasad Hegde,JD(U),61,M,6776921,0,0,0,12th Pass,Y,189350,"Social Worker, Political Activist, Agriculturist"
+699,Lok Sabha,Tamil Nadu,Viluppuram,Ravikumar D,DMK,58,M,6509860,1369031,0,0,Doctorate,Y,422898,Advocate and Publisher (Prop: Manarkeni Publication)
+700,Lok Sabha,Kerala,Palakkad,V K Sreekandan,INC,49,M,6356399,2709000,7,0,Graduate,Y,0,MUNICIPAL CONICELLOR SOCIAL ACTIVIST
+701,Lok Sabha,Assam,Mangaldoi,Shri Dilip Saikia,BJP,45,M,6206286,0,0,0,Graduate,Y,605656,Business
+702,Lok Sabha,West Bengal,Raiganj,Debasree Chaudhuri,BJP,48,F,6139123,823416,2,2,Post Graduate,Y,369336,Social Services
+703,Lok Sabha,Kerala,Pathanamthitta,Anto Antony,INC,62,M,6075876,7723227,1,0,Graduate,Y,603343,Politician
+704,Lok Sabha,Tamil Nadu,Karur,Jothimani S,INC,43,F,6046055,379000,0,0,Post Graduate,Y,52850,WRITER AND SOCIAL WORKER
+705,Lok Sabha,West Bengal,Balurghat,Sukanta Majumdar,BJP,40,M,5825866,2168170,0,0,Doctorate,Y,465280,"Service (Asstt. Professor, University of Gour Banga)"
+706,Rajya Sabha,Chhattisgarh,2020-2026,Phulo Devi Netam,INC,48,F,5488880,668154,0,0,12th Pass,Y,380865,Agriculture and MLA Pension
+707,Rajya Sabha,Odisha,2020-2026,Mamata Mohanta,BJD,44,F,5449784,481068,0,0,Graduate,N,0,Social Worker
+708,Lok Sabha,West Bengal,Bangaon,Shantanu Thakur,BJP,37,M,5265388,0,8,12,Graduate,Y,386992,Dharma Guru and Social Worker
+709,Lok Sabha,Bihar,Valmiki Nagar : Bye Election On 07-11-2020,Sunil Kumar,JD(U),35,M,5261775,200623,0,0,Graduate,Y,341910,Agriculture
+710,Rajya Sabha,Madhya Pradesh,2022-2028,Kavita Patidar,BJP,47,F,5066019,0,0,0,Post Graduate,Y,254550,Social Service
+711,Lok Sabha,Bihar,Araria,Pradeep Kumar Singh,BJP,52,M,5010577,1159200,3,2,10th Pass,Y,612901,Tenancy & Politics
+712,Lok Sabha,Jharkhand,Dumka,Sunil Soren,BJP,39,M,4737559,685516,0,0,12th Pass,Y,645000,Pension
+713,Lok Sabha,Andhra Pradesh,"Tirupati: Bye Election On 17-,Apr-21",Maddila Gurumoorthy,YSRCP,35,M,4725044,0,0,0,Graduate Professional,Y,480000,"Agriculturist and Medical Practitioner (Physiotherapist), Previously worked as special officer for welfare of Differently Abled Transgender and Senior Citizens Government of AP"
+714,Lok Sabha,Tamil Nadu,Nagapattinam,Selvaraj M,CPI,63,M,4572837,1251381,0,0,12th Pass,Y,0,Social Worker
+715,Lok Sabha,West Bengal,Medinipur,Dilip Kumar Ghosh,BJP,54,M,4536462,0,14,3,10th Pass,Y,0,Party Whole Timer
+716,Lok Sabha,Assam,Dibrugarh,Rameswar Teli,BJP,48,M,4370067,0,0,0,10th Pass,Y,1345784,Politician and Social Worker
+717,Lok Sabha,Uttar Pradesh,Sant Kabir Nagar,Praveen Kumar Nishad,BJP,30,M,4300614,2326248,0,0,Graduate Professional,Y,233086,Agriculture
+718,Lok Sabha,Rajasthan,Nagaur,Hanuman Beniwal,Rashtriya Loktantrik Party,47,M,4218568,0,0,0,Graduate Professional,Y,1259050,Agricuture & MLA Pension
+719,Lok Sabha,Andhra Pradesh,Bapatla,Suresh Babu Nandigam,YSRCP,43,M,4158610,269000,0,0,8th Pass,Y,340270,"Photographer, Cultivation"
+720,Rajya Sabha,Madhya Pradesh,2020-2026,Dr. Sumer Singh Solanki,BJP,48,M,3975453,971744,0,0,Doctorate,Y,991724,Social Worker
+721,Lok Sabha,Madhya Pradesh,Dewas,Mahendra Singh Solanky,BJP,35,M,3812464,1832631,0,0,Graduate Professional,Y,799866,Retd Judge
+722,Rajya Sabha,Punjab,2022-2028,Raghav Chadha,AAP,33,M,3699471,0,3,0,Graduate,Y,244600,"Chartered Accountant, Member of Legislative Assembly of Delhi"
+723,Rajya Sabha,Uttar Pradesh,2018-2024,Sakaldeep,BJP,73,M,3553708,0,0,0,12th Pass,Y,0,Agriculture
+724,Rajya Sabha,Madhya Pradesh,2018-2024,Rajmani Patel,INC,72,M,3457000,388807,0,0,Post Graduate,Y,468600,Farmer
+725,Rajya Sabha,Andhra Pradesh,2020-2026,Pilli Subhaschandra Bose,YSRCP,69,M,3282877,0,0,0,Graduate,Y,322000,Deputy Chief Minister (Revenue) Govt. of AP
+726,Lok Sabha,Rajasthan,Bharatpur,Ranjeeta Kumari,BJP,39,F,3117190,0,0,0,8th Pass,Y,0,House Wife
+727,Lok Sabha,Telangana,Adilabad,Bapu Rao Soyam,BJP,52,M,3099414,231450,52,55,12th Pass,Y,0,Agriculture and Ex MLA Pension
+728,Rajya Sabha,West Bengal,2023-2029,Dola Sen,AITC,56,F,3013321,0,0,0,Graduate,Y,1050000,POLITICAL WORKER
+729,Lok Sabha,Rajasthan,Sikar,Sumedhanand Saraswati,BJP,67,M,2827638,2719583,0,0,Post Graduate,Y,1128120,"MLA Salary, Allowances"
+730,Rajya Sabha,Maharashtra,2018-2024,V. Muraleedharan,BJP,59,M,2771646,0,7,3,Graduate,Y,0,Social Work
+731,Lok Sabha,Odisha,Mayurbhanj,Bishweswar Tudu,BJP,54,M,2742000,400000,1,1,10th Pass,Y,919489,Social Worker
+732,Lok Sabha,Rajasthan,Barmer,Kailash Choudhary,BJP,45,M,2402250,0,2,2,Graduate,Y,315450,Ex-MLA Pension
+733,Lok Sabha,Telangana,Karimnagar,Bandi Sanjay Kumar,BJP,47,M,2270000,1341800,6,4,Post Graduate,Y,436800,Business
+734,Lok Sabha,Haryana,Karnal,Sanjay Bhatia,BJP,51,M,2256739,500000,0,0,Graduate,Y,150000,Agriculture & Social Worker
+735,Lok Sabha,West Bengal,Purulia,Jyotirmay Singh Mahato,BJP,34,M,2250540,456100,2,5,Graduate Professional,Y,427880,Business
+736,Rajya Sabha,Kerala,2021-2027,V Sivadasan,CPI(M),41,M,2080070,880000,5,1,Doctorate,Y,200000,Social Worker
+737,Lok Sabha,Tripura,Tripura East,Rebati Tripura,BJP,43,M,1948315,0,0,0,Post Graduate,Y,0,assistant Teacher Under the Grant-in- aid School Mahatma Gandhi Memorial XII School
+738,Lok Sabha,Assam,Karimganj,Kripanath Mallah,BJP,46,M,1871040,0,0,0,Graduate,Y,567504,Social service
+739,Rajya Sabha,Jharkhand,2018-2024,Samir Oraon,BJP,48,M,1869000,457683,0,0,12th Pass,Y,602187,Pensioner
+740,Lok Sabha,Tamil Nadu,Madurai,Venkatesan S,CPI(M),49,M,1811456,0,0,0,12th Pass,Y,401670,"Communist party of India full time member, writer"
+741,Lok Sabha,Andhra Pradesh,Hindupur,Kuruva Gorantla Madhav,YSRCP,50,M,1787356,730332,2,4,Graduate,Y,829510,Social Worker
+742,Rajya Sabha,Madhya Pradesh,2022-2028,Sumitra Balmik,BJP,67,F,1785000,340000,0,0,Graduate,Y,0,Social Service
+743,Lok Sabha,West Bengal,Alipurduars,John Barla,BJP,43,M,1418730,0,9,24,8th Pass,Y,323890,Tea Garden Worker
+744,Lok Sabha,Karnataka,Bangalore South,Tejasvi Surya,BJP,28,M,1346593,0,0,0,Graduate Professional,Y,513220,Advocate
+745,Lok Sabha,Odisha,Balasore,Pratap Chandra Sarangi,BJP,64,M,1346236,160,7,7,Graduate,Y,0,Social Worker
+746,Lok Sabha,West Bengal,Bolpur,Asit Kumar Mal,AITC,63,M,1310691,0,0,0,10th Pass,Y,248080,Polticial Worker
+747,Lok Sabha,Odisha,Kandhamal,Achyutananda Samanta,BJD,55,M,1244722,0,0,0,Doctorate,Y,2574130,"Social Activist, Member of Parliament (Rajya Sabha)"
+748,Rajya Sabha,Kerala,2022-2028,A A Rahim,CPI(M),41,M,1162414,0,37,1,Post Graduate,N,0,Social Worker
+749,Lok Sabha,Kerala,Alathur,Ramya Haridas,INC,32,F,1152816,0,3,0,10th Pass,N,0,NIL
+750,Rajya Sabha,West Bengal,2023-2026,Saket Gokhale,AITC,36,M,1023349,513218,5,1,Graduate,Y,310610,"Researcher, RTI Activist, Social Worker"
+751,Lok Sabha,Jammu & Kashmir,Ladakh,Tsering Namgyal,BJP,33,M,981904,0,1,0,Graduate,N,0,Chairman LAHDC Leh
+752,Lok Sabha,Lakshadweep,Lakshadweep,Mohammed Faizal Pp,NCP,43,M,938641,0,2,4,Post Graduate,Y,600000,Social Worker (Public Representative)
+753,Rajya Sabha,West Bengal,2023-2029,Prakash Chik Baraik,AITC,43,M,925000,0,1,0,Graduate,Y,443470,"Tea Garden Employee, Re-Seller of Seasonal crops"
+754,Lok Sabha,Odisha,Aska,Pramila Bisoyi,BJD,70,F,732470,0,0,0,5th Pass,N,0,Cultivation & Social Serv.
+755,Rajya Sabha,NCT of Delhi,2018-2024,Sanjay Singh,AAP,45,M,660513,38000,9,0,Others,Y,224,Social Worker
+756,Lok Sabha,Tripura,Tripura West,Pratima Bhoumik,BJP,50,F,642398,0,0,0,Graduate,Y,0,Social Worker
+757,Rajya Sabha,Manipur,2020-2026,Maharaja Sanajaoba Leishemba,BJP,48,M,548594,0,0,0,Graduate,Y,0,"Social Worker, Self Employed"
+758,Lok Sabha,Sikkim,Sikkim,Indra Hang Subba,Sikkim Krantikari Morcha,30,M,478817,0,0,0,Post Graduate,Y,0,Social Worker
+759,Lok Sabha,Madhya Pradesh,Bhopal,Sadhvi Pragya Singh Thakur,BJP,49,F,444224,0,1,5,Post Graduate,Y,0,Bhikshaatan / Dependent on society
+760,Rajya Sabha,Punjab,2022-2028,Sant Balbir Singh,AAP,60,M,379972,0,0,0,12th Pass,Y,0,Social Worker
+761,Lok Sabha,Rajasthan,Alwar,Mahant Balak Nath,BJP,35,M,352929,0,0,0,10th Pass,Y,0,No
+762,Lok Sabha,Odisha,Keonjhar,Chandrani Murmu,BJD,25,F,340580,0,0,0,Graduate Professional,Y,0,Social Service
+763,Lok Sabha,Andhra Pradesh,Araku,Goddeti Madhavi,YSRCP,26,F,141179,0,0,0,Graduate Professional,Y,0,Social Service

@@ -1,0 +1,13 @@
+Criminal record
+
+normalize
+assets,liabilities,cases,serious_cases,income
+label encoding 
+education,house, gender
+
+election record
+
+normalize
+Votes,Valid_Votes,Vote_Share_Percentage,Margin,Margin_Percentage
+label encoding 
+State_Name,Constituency_Name,Candidate_Type,Party,Party_Type_TCPD,Incumbent,Recontest

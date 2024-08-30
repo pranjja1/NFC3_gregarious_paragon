@@ -49,24 +49,53 @@ const Name = () => {
 
 
   const handleRedirect = () => {
-    navigate('/lok') // Change the URL to the desired path
+    navigate('/report') // Change the URL to the desired path
   };
 
-  const handleRedirect2 = () => {
-    navigate('/raj') // Change the URL to the desired path
-  };
   return (
     
       <div className="container text-center mt-4" style={{backgroundColor:"#cc6666",height:"350px",top:"0px",padding:"0px"}}>
         <div className="container">
-        
-<div className="text-center mt-3" style={{position:"relative",top:"100px",left:"60px",width:"350px"}}>        
-        
-        <button style={{position:"absolute",top:"37px",left:"170px",width:"130px",height:"50px"}} onClick={handleRedirect} >Lok Sabha</button>
+          <form method="post" acceptCharset="utf-8" name="Modelform">
 
-        <button style={{position:"absolute",top:"37px",left:"30px",width:"130px",height:"50px"}} onClick={handleRedirect2} >Rajya Sabha</button>
+
+
+<div className="text-center mt-3" style={{position:"relative",top:"100px",left:"60px",width:"350px"}}>
+      <label>
+        <p style={{color:"white"}}>Search By Candidate Name:</p>
         
-            </div>      
+        
+        <button style={{position:"absolute",top:"87px",left:"180px",width:"80px"}} onClick={handleRedirect} >Search</button>
+        
+      </label>
+      <br />
+      <input
+        type="text"
+        className="form-control"
+        id="Candidate_name"
+        name="Candidate_name"
+        value={formData.Candidate_name}
+        onChange={handleChange}
+        placeholder="Candidate_name"
+      />
+      
+      <select style={{position:"relative",top:"10px",left:"13%",width:"120px"}}
+                className="selectpicker form-control"
+                id="Party_Type"
+                name="Party_Type"
+                value={formData.Party_Type}
+                onChange={handleChange}
+                required
+              >
+                <option value="" disabled>
+                  Select
+                </option>
+                <option value="0">Lok Sabha </option>
+                <option value="1">Rajya Sabha</option>
+              </select>
+            </div>
+</form>
+      
     </div>
     
         </div>
